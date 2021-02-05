@@ -40,7 +40,7 @@
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="yes"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
 <layer number="48" name="Document" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="49" name="Reference" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
@@ -125,12 +125,12 @@
 <wire x1="1.27" y1="30.48" x2="4.445" y2="30.48" width="0.508" layer="42"/>
 <wire x1="5.08" y1="0.635" x2="5.08" y2="2.54" width="0.508" layer="42"/>
 <wire x1="4.445" y1="30.48" x2="5.715" y2="31.75" width="0.508" layer="42"/>
-<text x="41.91" y="2.54" size="1.27" layer="102" font="vector" ratio="16" rot="SR90">https://github.com/RoboticsBrno/RoboCamp-2021</text>
-<text x="30.48" y="2.54" size="1.27" layer="102" font="vector" ratio="16" rot="SR90">RobotikaBrno.cz
+<text x="41.91" y="2.54" size="1.27" layer="101" font="vector" ratio="16" rot="SR90">https://github.com/RoboticsBrno/RoboCamp-2021</text>
+<text x="30.48" y="2.54" size="1.27" layer="101" font="vector" ratio="16" rot="SR90">RobotikaBrno.cz
 Robotárna</text>
-<text x="15.24" y="2.54" size="1.778" layer="102" font="vector" ratio="16" rot="SR90">RoboCamp 2021</text>
-<text x="16.51" y="58.42" size="1.27" layer="102" font="vector" ratio="16" rot="SR0">+</text>
-<text x="26.035" y="58.42" size="1.27" layer="102" font="vector" ratio="16" rot="SR0">-</text>
+<text x="15.24" y="2.54" size="1.778" layer="101" font="vector" ratio="16" rot="SR90">RoboCamp 2021</text>
+<text x="16.51" y="58.42" size="1.27" layer="101" font="vector" ratio="16" rot="SR0">+</text>
+<text x="26.035" y="58.42" size="1.27" layer="101" font="vector" ratio="16" rot="SR0">-</text>
 <text x="40.64" y="2.54" size="1.27" layer="102" font="vector" ratio="16" rot="SMR90">https://github.com/RoboticsBrno/RoboCamp-2021</text>
 <text x="27.94" y="2.54" size="1.27" layer="102" font="vector" ratio="16" rot="SMR90">RobotikaBrno.cz
 Robotárna</text>
