@@ -2309,6 +2309,12 @@ Change board thickness to 2 mm, because of connectorless PCB USB
 <wire x1="18.88" y1="58.885" x2="18.88" y2="57.15" width="0.508" layer="1"/>
 <wire x1="19.685" y1="59.69" x2="18.88" y2="58.885" width="0.508" layer="1"/>
 </signal>
+<signal name="N$23">
+<contactref element="X1" pad="USB_M"/>
+</signal>
+<signal name="N$24">
+<contactref element="X1" pad="USB_P"/>
+</signal>
 </signals>
 <mfgpreviewcolors>
 <mfgpreviewcolor name="soldermaskcolor" color="0xC8008000"/>

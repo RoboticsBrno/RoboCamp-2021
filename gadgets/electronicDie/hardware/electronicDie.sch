@@ -17133,6 +17133,8 @@ Source: http://www.osram.convergy.de/ ... LG_LY Q971.pdf</description>
 <part name="C3" library="rcl_upravena" deviceset="C-EU" device="025-025X050" value="100n"/>
 <part name="LED8" library="led" deviceset="LED" device="CHIPLED_0603" package3d_urn="urn:adsk.eagle:package:15822/2" value="green"/>
 <part name="R11" library="rcl_upravena" deviceset="R-EU_" device="R0603" value="1k"/>
+<part name="NC3" library="NC" deviceset="NC" device=""/>
+<part name="NC4" library="NC" deviceset="NC" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -18656,7 +18658,7 @@ https://github.com/RoboticsBrno/RoboCamp-2021</text>
 <attribute name="NAME" x="190.5" y="123.6726" size="1.778" layer="95"/>
 <attribute name="VALUE" x="190.5" y="121.3866" size="1.778" layer="96"/>
 </instance>
-<instance part="X1" gate="G$1" x="22.86" y="93.98" smashed="yes" rot="MR0"/>
+<instance part="X1" gate="G$1" x="20.32" y="93.98" smashed="yes" rot="MR0"/>
 <instance part="C2" gate="G$1" x="106.68" y="121.92" smashed="yes" rot="MR0">
 <attribute name="NAME" x="104.14" y="122.047" size="1.778" layer="95" rot="MR0"/>
 <attribute name="VALUE" x="104.14" y="118.999" size="1.778" layer="96" rot="MR0"/>
@@ -18669,10 +18671,12 @@ https://github.com/RoboticsBrno/RoboCamp-2021</text>
 <attribute name="NAME" x="41.656" y="86.868" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="43.815" y="86.868" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="R11" gate="G$1" x="38.1" y="101.6" smashed="yes" rot="R90">
-<attribute name="NAME" x="36.3474" y="99.06" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="36.322" y="104.14" size="1.778" layer="96" rot="R90"/>
+<instance part="R11" gate="G$1" x="38.1" y="101.6" smashed="yes" rot="MR90">
+<attribute name="NAME" x="39.8526" y="99.06" size="1.778" layer="95" rot="MR90"/>
+<attribute name="VALUE" x="39.878" y="104.14" size="1.778" layer="96" rot="MR90"/>
 </instance>
+<instance part="NC3" gate="G$1" x="27.94" y="99.06" smashed="yes"/>
+<instance part="NC4" gate="G$1" x="27.94" y="96.52" smashed="yes"/>
 </instances>
 <busses>
 </busses>
@@ -18743,7 +18747,7 @@ https://github.com/RoboticsBrno/RoboCamp-2021</text>
 <wire x1="55.88" y1="86.36" x2="53.34" y2="86.36" width="0.1524" layer="91"/>
 <junction x="53.34" y="86.36"/>
 <pinref part="X1" gate="G$1" pin="GND"/>
-<wire x1="25.4" y1="93.98" x2="30.48" y2="93.98" width="0.1524" layer="91"/>
+<wire x1="22.86" y1="93.98" x2="30.48" y2="93.98" width="0.1524" layer="91"/>
 <wire x1="30.48" y1="93.98" x2="30.48" y2="83.82" width="0.1524" layer="91"/>
 <wire x1="30.48" y1="83.82" x2="30.48" y2="60.96" width="0.1524" layer="91"/>
 <wire x1="30.48" y1="60.96" x2="53.34" y2="60.96" width="0.1524" layer="91"/>
@@ -18861,7 +18865,7 @@ https://github.com/RoboticsBrno/RoboCamp-2021</text>
 <wire x1="200.66" y1="132.08" x2="200.66" y2="137.16" width="0.1524" layer="91"/>
 <junction x="200.66" y="137.16"/>
 <pinref part="X1" gate="G$1" pin="VBUS"/>
-<wire x1="25.4" y1="101.6" x2="30.48" y2="101.6" width="0.1524" layer="91"/>
+<wire x1="22.86" y1="101.6" x2="30.48" y2="101.6" width="0.1524" layer="91"/>
 <wire x1="30.48" y1="101.6" x2="30.48" y2="109.22" width="0.1524" layer="91"/>
 <wire x1="30.48" y1="109.22" x2="30.48" y2="137.16" width="0.1524" layer="91"/>
 <wire x1="30.48" y1="137.16" x2="53.34" y2="137.16" width="0.1524" layer="91"/>
@@ -19049,6 +19053,20 @@ https://github.com/RoboticsBrno/RoboCamp-2021</text>
 <pinref part="R11" gate="G$1" pin="1"/>
 <pinref part="LED8" gate="G$1" pin="A"/>
 <wire x1="38.1" y1="96.52" x2="38.1" y2="93.98" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$23" class="0">
+<segment>
+<pinref part="X1" gate="G$1" pin="D-"/>
+<pinref part="NC3" gate="G$1" pin="NC"/>
+<wire x1="22.86" y1="99.06" x2="27.94" y2="99.06" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$24" class="0">
+<segment>
+<pinref part="X1" gate="G$1" pin="D+"/>
+<pinref part="NC4" gate="G$1" pin="NC"/>
+<wire x1="22.86" y1="96.52" x2="27.94" y2="96.52" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>
