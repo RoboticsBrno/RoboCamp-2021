@@ -3,7 +3,7 @@
 ![RoboSvit front side](assets/roboSvit-propag/photo/roboSvit-propag-04.png)
 ![RoboSvit back side](assets/roboSvit-propag/photo/roboSvit-propag-03.png)
 
-RoboSvit is a small lamp powered by watch batteries
+RoboSvit is a small lamp powered by watch batteries.
 
 Battery CR2032
 - Voltage: 3 V
