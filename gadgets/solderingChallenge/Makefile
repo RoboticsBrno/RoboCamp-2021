@@ -1,6 +1,10 @@
-.PHONY: all clean
+.PHONY: all clean panels
 
-all: build/l1-panel build/l2-panel build/l3-panel build/l4-panel build/l4a-panel build/l5-panel
+all: panels single build/gatema.zip
+
+panels: build/l1-panel build/l2-panel build/l3-panel build/l4-panel build/l4a-panel build/l5-panel
+
+single: build/l1 build/l2 build/l3 build/l4 build/l4a build/l5
 
 build:
 	mkdir -p build
@@ -46,6 +50,9 @@ build/panel.kicad_pcb: hardware/templateGadget.kicad_pcb build
 		--mousebites 0.2 0.35 0 --radius 0.75 --railsTb 5 \
 		--tooling 2.5 2.5 1.152 \
 		$< $@
+
+build/gatema.zip: single
+	cd build; zip -r gatema.zip l1 l2 l3 l4
 
 clean:
 	rm -rf build
