@@ -1,14 +1,9 @@
-# A Gadget Template
+# Soldering challenge
 
-Put a rendering/photos of the gadget here.
+A series of simple 555-based LED flashers that gradually shrinks the packages.
+Power it by plugging it into an USB port and test your soldering skills!
 
-Then provide a short description - just that the others know what is this directory about.
+![The PCBs](assets/previewAll.jpg)
 
-Do not forget to write a manual in the doc directory!
-
-## Notes for authors
-
-- place boards in the hardware directory
-- if there is an essential firmware, put it in the firmware directory
-- write manual in the
-
+- [Návod (CZ)](manual-cs.md)
+- [Manual (EN)](manual-en.md)
