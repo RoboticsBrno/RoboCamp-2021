@@ -5,21 +5,8 @@
 
 RoboSvit je malé světýlko napájené na hodinkovou baterku. Skládá se ze sedmi LEDek a jednoho rezistoru. Průměr kolečka činí 45 mm a je vyřezané na laseru z 3 mm překližky. Na přední straně světýlka je vygravírované logo Robotárny. Dvě dírky na horní straně jsou připravené na protáhnutí provázku, aby bylo možné jej nosit pověšený na krku. Odběr celého světýlka činí 2.3 mA a průměrná doba svícení je 85 hodin.
 
-Baterie CR2032
-- Napětí: 3 V
-- Kapacita: 200 mAh
-
-LED
-- Napětí: 2.0 V
-- Proud: 20 mA
-
-Rezistor
-- Odpor: 100 Ω
-- Příkon: 0.6 W
-- Tolerance: 1 %
-- Řada: E24
-
-![RoboSvit pájení](assets/roboSvit-propag/photo/roboSvit-propag-01.png)
-![RoboSvit schéma](assets/roboSvit-propag/photo/roboSvit-propag-06.png)
-
 Vytvořil Jakub Andrýsek.
+
+
+- [Návod (CZ)](manual-cs.md)
+- [Manual (EN)](manual-en.md)
