@@ -27,9 +27,6 @@ Rezistor
 - Tolerance: 1 %
 - Řada: E24
 
-![RoboSvit pájení](assets/roboSvit-propag/photo/roboSvit-propag-01.png)
-![RoboSvit schéma](assets/roboSvit-propag/photo/roboSvit-propag-06.png)
-
 ## Potřebný materiál
 - Dřevěný dílek
 - 7 LED
