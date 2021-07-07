@@ -19,7 +19,4 @@ Resistor
 - Tolerance: 1%
 - Series: E24
 
-![RoboSvit soldering](assets/roboSvit-propag/photo/roboSvit-propag-01.png)
-![RoboSvit schema](assets/roboSvit-propag/photo/roboSvit-propag-06.png)
-
 Created by Jakub Andrýsek.
