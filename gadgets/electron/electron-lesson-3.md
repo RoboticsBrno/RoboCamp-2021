@@ -10,14 +10,14 @@ Zapojte si nyní obvod podle obrázku na levé straně, zjistíte, že žlutá L
 
 Pokud budete s tranzistorem experimentovat, dbejte, aby do báze tekl proud vždy přes odpor. Stejně jako u LED diody byste velkým proudem přímo z baterie tranzistor zničili.
 
-![](assets/electron-14.png)
+![](assets/electron-31.svg)
 
 ## 11. Jednoduchý tranzistorový zesilovač
 
 V mnoha případech, kdy je vstupní signál, který máme k dispozici, příliš malý na to, aby sepnul tranzistor, je nutno propojit několik tranzistorů za sebou, aby se celkové zesílení obvodu zvýšilo.
 Jednoduchý zesilovač- tzv. Darlingtonovo zapojení je na schématu. Po zapojení se dotkněte zdířky báze T a přibližte se k nějakému (i vypnutému) elektrickému spotřebiči nebo kabelu. LED dioda se rozsvítí, přestože do báze T zdánlivě neteče žádný proud. Vaše tělo nyní působí jako anténa pro okolní elektromagnetické pole a dotekem prstu přivedete do báze T proud velikosti deseti-tisícin mA, který ovšem stačí k pootevření tranzistoru T. Zesílený proud vycházející z emitoru T a vstupující do báze T stačí k sepnutí tranzistoru T a rozsvícení červené LED diody. Přestože se zdá, že při doteku LED dioda svítí trvalým jasem, vlastně bliká, a to v rytmu změn okolního elektromagnetické pole, které mění svoji intenzitu stejně jako napětí a proud v elektrické síti 50 krát za sekundu. Změny jsou ovšem na lidské oko příliš rychlé, a proto vnímáme jas LED diody jako stály. Pokud chcete toto blikání vidět, pohybujte panelem zlehka kývavě do stran od kabelu a sledujte LED diodu.
 
-![](assets/electron-15.png)
+![](assets/electron-32.svg)
 
 ## 12. Tranzistorový oscilátor
 
@@ -25,10 +25,10 @@ Zapojte obvod podle schématu. Obvod je už poněkud složitější, proto prove
 
 Co se v tomto zařízení odehrává? Po stisku tlačítka se přivede napájení k obvodu, jehož součástky a způsob zapojení je zvolen tak, aby v něm došlo ke kmitům, neboli aby se samočinně střídavě spínaly jeden nebo druhý tranzistor. Na kolektor T je s odporem R 560Ω připojena LED dioda, takže když je právě sepnut tento tranzistor, teče do kolektoru proud přes odpor R a LED diodu a ta se rozsvítí. V okamžiku, kdy se T vypne, přestane do jeho kolektoru téci proud a LED dioda zhasne.
 
-![](assets/electron-16.png)
+![](assets/electron-33.svg)
 
 ## 13. Jednoduché poplašné zařízení
 
 Zapojte obvod podle schématu. Je dobré provést dílčí kontrolu po zapojení části oscilátoru, kdy není na panelu ještě mnoho vodičů, sníží se tak riziko chyby v celkovém zapojení. Máte-li obvod celý zapojen a zkontrolován, připojte baterii a přepněte přepínač do polohy nahoře. Pokud jsou konce poplašných vodičů rozpojeny, rozsvítí se červená LED dioda. Pokud konce poplašných vodičů spojíme, LED dioda zhasne. Nyní můžete konce poplašných vodičů šikovně přilepit třeba na šuplík u stolu, který chcete hlídat nebo zatížit kontakty hlídanými předmětem a čekat až se někdo "chytí".
 
-![](assets/electron-18.png)
+![](assets/electron-34.svg)

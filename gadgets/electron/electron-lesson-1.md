@@ -16,11 +16,11 @@ Můžete rozsvítit červenou, žlutou nebo zelenou diodu.
 POZOR! Je nutné, aby v obvodu s LED diodou byl vždy zařazen omezovací odpor. Pokud byste připojili LED diodu v propustném směru přímo na zdroj napětí – baterii, zcela jistě byste LED diodu zničili.
 
 
-![](assets/electron-24.png)
+![](assets/electron-11.svg)
 
 ### Měřené hodnoty
 
-![](assets/electron-26.png)
+![](assets/electron-12.svg)
 
 
 **Napětí** na diodě je nižší než na vstupu. Je to způsobeno odporem, který snižuje protékající proud a napětí. Napětí na LED diodě by mělo být zhruba **2V**. 
@@ -31,10 +31,10 @@ POZOR! Je nutné, aby v obvodu s LED diodou byl vždy zařazen omezovací odpor.
 
 Vlastnosti sériového spojení odporů si můžete ověřit na modelu dle schématu. Po zapojení se rozsvítí. Pokud je přepínač v poloze nahoře, proud musí procházet oběma odpory, z nichž každý svým dílem zmenšuje celkový proud v obvodu a LED dioda svítí slaběji. Pokud přepnete přepínač do spodní polohy, proudu se do cesty nestaví odpor 560Ω a protéká tak pouze odporem 180Ω. Souhrný odpor je tak menší a proto je proud větší a LED dioda svítí silněji. V tomto schématu jsou zařazeny v sérii dva odpory, ale je možno takhle za sebou propojit odporů více. Výsledný odpor R sériové kombinace odporů se rovná součtu hodnot jednotlivých odporů, v našem případě R = R3 + R2. R = 560 + 180 = 740Ω
 
-![](assets/electron-31.png)
+![](assets/electron-13.svg)
 
 ### Měřené hodnoty
-![](assets/electron-32.png)
+![](assets/electron-14.svg)
 
 **Napětí** na LED diodě, při pozici přepínače v poloze dole, by mělo být zhruba **2V**, v poloze na hoře je to o něco méně **1,9V**. 
 
@@ -51,6 +51,6 @@ Vraťme se k našemu schématu. V sériovém zapojení podle návodu č.2 byl v�
 
 ![R=\frac{R1\cdot R2}{R1 + R2}=\frac{560\cdot 180}{560+180}=136.2 \Omega](assets/electron-38.svg)
 
-![](assets/electron-34.png)
+![](assets/electron-15.svg)
 
 ### [Další lekce](electron-lesson-2.md)

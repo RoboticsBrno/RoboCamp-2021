@@ -4,16 +4,18 @@
 
 ### Schématické značky
 
-|	Název		|			Značka			|
-| ------------- | ------------------------- |
-|Baterka		|![](assets/electron-01.png)|
-|Odpor			|![](assets/electron-05.png)|
-|LED dioda		|![](assets/electron-03.png)|
-|Tlačítko		|![](assets/electron-08.png)|
-|Přepínač		|![](assets/electron-07.png)|
-|Kondenzátor	|![](assets/electron-02.png)|
-|Potenciometr	|![](assets/electron-06.png)|
-|Tranzistor		|![](assets/electron-09.png)|
+|	Název		            |			Značka			|
+| -------------             | ------------------------- |
+|Baterie		            |![](assets/electron-01.svg)|
+|Rezistor		            |![](assets/electron-02.svg)|
+|Kondenzátor	            |![](assets/electron-06.svg)|
+|Kondenzátor polarizovaný   |![](assets/electron-09.svg)|
+|LED    		            |![](assets/electron-03.svg)|
+|Tlačítko		            |![](assets/electron-04.svg)|
+|Přepínač		            |![](assets/electron-05.svg)|
+|Potenciometr	            |![](assets/electron-07.svg)|
+|Tranzistor NPN             |![](assets/electron-08.svg)|
+|Tranzistor PNP             |![](assets/electron-091.svg)|
 
 <hr>
 

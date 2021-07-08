@@ -16,7 +16,7 @@ Ve svém okolí byste našli překvapivé množství aplikaci této i jiných lo
 |     1    |    1   |     1     |
 
 
-![](assets/electron-35.png)
+![](assets/electron-21.svg)
 
 ## 5. OR
 
@@ -34,7 +34,7 @@ Jako příklad situace vyjadřující tuto logickou funkci lze například uvés
 |     1    |    1   |     1     |
 
 
-![](assets/electron-36.png)
+![](assets/electron-22.svg)
 
 ## Úkol navíc
 
@@ -57,7 +57,7 @@ Po sestavení se rozsvítí červená nebo žlutá LED dioda podle toho, v jaké
 
 Obvod obsahuje, kromě zdroje napětí, omezovací odpor 180Ω, který chrání LED diody před proudovým přetížením a přepínač, který pouští, v závislosti na své poloze, proud do jedné nebo druhé LED diody.
 
-![](assets/electron-37.png)
+![](assets/electron-23.svg)
 
 ## 7. Potenciometr jako proměnný odpor
 
@@ -68,14 +68,14 @@ Pro pochopení funkce potenciometru je dobré vědět, jak je mechanicky konstru
 
 Tyto vlastnosti si můžete ověřit, pokud budete měnit polohu regulačního knoflíku a přepínat přepínač. Pokud bude jezdec uprostřed, bude svítit LED dioda při obou polohách přepínače stejně (slabě). Pokud pootočíte regulační knoflík mimo střed, bude při přepínání přepínače měnit LED dioda skokem svůj jas podle toho, jaký odpor je právě mezi jezdcem a koncem odporové dráhy. Opět platí, že čím menší je odpor obvodu, tím větší je proud a také jas LED diody.
 
-![](assets/electron-11.png)
+![](assets/electron-24.svg)
 
 
 ## 8. Prolínání barev
 
 Zapojte obvod dle schématu, rozsvítí se vám jedna nebo obě LED diody podle toho, v jaké poloze se nachází zrovna jezdec potenciometru. Pokud je jezdec blíže ke krajní poloze "-", svítí jasněji žlutá LED dioda, pokud je blíže poloze "+", svítí jasněji červená LED dioda. Otáčením knoflíku můžete měnit jas obou LED diod tak, že to vypadá, jako by se světlo "přelévalo" z jedné do druhé.
 
-![](assets/electron-12.png)
+![](assets/electron-25.svg)
 
 ## 9. Kondenzátor neboli zásobárna energie
 
@@ -91,7 +91,7 @@ Ve schématech se už většinou nepíše písmeno "F"- značka Faradu za hodnot
 
 Při experimentování a zapojování elektrolytických kondenzátorů do obvodu je nutno dbát, aby vývod "+" byl připojen na vyšší napětí, než vývod "-". Při dlouhodobějším opačném připojení by mohlo dojít k poškození kondenzátoru.
 
-![](assets/electron-13.png)
+![](assets/electron-26.svg)
 
 
 ### [Další lekce](electron-lesson-3.md)
