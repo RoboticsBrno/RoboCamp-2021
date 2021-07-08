@@ -18,4 +18,10 @@ Tady je stručný návod pro hračku v češtině
 12. Zapájet kondezátory C1, C2, C3, C4
 13. Osadit tranzistory T1, T2 BC557B
 14. Zapájet tranzistory T1, T2
-15. Osadit LED diody LED1, LED2, LED3, LED4, LED5, LED6, LED7 
+15. Osadit LED diody LED1, LED2, LED3, LED4, LED5, LED6, LED7
+16. Zapájet LED diody LED1, LED2, LED3, LED4, LED5, LED6, LED7 
+17. Osadit tlačítko
+18. Zapájet tlačítko
+19. Osadit integrované obvody
+20. Zapájet integrované obvody
+21. Nalepit podložku na USB
