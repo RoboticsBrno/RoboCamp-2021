@@ -5,7 +5,7 @@
 Obvod obsahuje zdroj elektrického napětí, spotřebič – LED dioda, odpor, který omezuje proud procházející diodou, spínací tlačítko a spojovací vodiče. 
 Spojte na panelu zdířky dle schématu. 
 
-Po zmáčknutí tlačítka se rozsvítí LED dioda. Stiskem tlačítka se spojí jeho kontakty a uzavře se elektrický obvod. Elektrický proud teče po dobu stisku tlačítka od plus (+) pólu baterie přes propojené součástky k minus (-) pólu baterie. Dioda je zapojena v propustném směru neboli propouští proud a ten ji rozsvěcuje. Po uvolnění tlačítka se elektrický obvod přeruší, proud přestane procházet a LED dioda zhasne. 
+Po zmáčknutí tlačítka se rozsvítí LED dioda. Stiskem tlačítka se spojí jeho kontakty a uzavře se elektrický obvod. Elektrický proud teče po dobu stisku tlačítka od plus (+) pólu baterie přes propojené součástky k minus (-) pólu baterie. Ve schematu je dioda je zapojena v propustném směru neboli propouští proud a ten ji rozsvěcuje. Po uvolnění tlačítka se elektrický obvod přeruší, proud přestane procházet a LED dioda zhasne. 
 
 Nyní zkuste připojit LED diodu obráceně (prohoďte vzájemně konce vodičů upevněné ve zdířkách). Dioda je nyní zapojena v závěrném směru, nepropouští proud, a tedy po zmáčknutí tlačítka nesvítí. 
 
@@ -24,12 +24,12 @@ POZOR! Je nutné, aby v obvodu s LED diodou byl vždy zařazen omezovací odpor.
 
 
 **Napětí** na diodě je nižší než na vstupu. Je to způsobeno odporem, který snižuje protékající proud a napětí. Napětí na LED diodě by mělo být zhruba **2V**. 
-**Proud** procházející LED diodou je přibližně **16mA**, což stačí na to, aby se LED dioda rozsvítila. 
+**Proud** procházející LED diodou je přibližně **16mA**, což stačí na to (aby vypalovala oči), aby se LED dioda rozsvítila. 
 
 
 ## 2. Sériové zapojení odporů
 
-Vlastnosti sériového spojení odporů si můžete ověřit na modelu dle schématu. Po zapojení se rozsvítí a. Pokud přepínač v poloze nahoře, proud musí procházet oběma odpory, z nichž každý svým dílem zmenšuje celkový proud v obvodu a LED dioda svítí slaběji. Pokud přepnete přepínač do spodní polohy, proud nemusí protékat přes odpor 560Ω a protéká pouze odporem 180Ω, proto je proud větší a LED dioda svítí silněji. V tomto schématu jsou zařazeny v sérii dva odpory, ale je možno takhle za sebou propojit odporů více. Výsledný odpor R sériové kombinace odporů se rovná součtu hodnot jednotlivých odporů, v našem případě R = R6 + R4. R = 560 + 180 = 740Ω
+Vlastnosti sériového spojení odporů si můžete ověřit na modelu dle schématu. Po zapojení se rozsvítí. Pokud je přepínač v poloze nahoře, proud musí procházet oběma odpory, z nichž každý svým dílem zmenšuje celkový proud v obvodu a LED dioda svítí slaběji. Pokud přepnete přepínač do spodní polohy, proudu se do cesty nestaví odpor 560Ω a protéká tak pouze odporem 180Ω. Souhrný odpor je tak menší a proto je proud větší a LED dioda svítí silněji. V tomto schématu jsou zařazeny v sérii dva odpory, ale je možno takhle za sebou propojit odporů více. Výsledný odpor R sériové kombinace odporů se rovná součtu hodnot jednotlivých odporů, v našem případě R = R3 + R2. R = 560 + 180 = 740Ω
 
 ![](assets/electron-31.png)
 

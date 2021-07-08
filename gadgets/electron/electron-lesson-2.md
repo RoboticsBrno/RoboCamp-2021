@@ -40,7 +40,8 @@ Jako příklad situace vyjadřující tuto logickou funkci lze například uvés
 
 ### XOR 
 
-Vyřešte za použití dvou sad Electona (ve dvojici). 
+Vyřešte za použití dvou sad Electronu (ve dvojici).
+K zapojení si také nakreslete schema. 
 
 |  Vstup 0 | Vstup 1 | LED dioda |
 |:--------:|:-------:|:---------:|
