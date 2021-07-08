@@ -1,3 +1,4 @@
-# Gadget Manual
+# Electronic Die
 
-Write the gadget manual in english, if you want.
+English manual is not available at the moment. See the [Czech
+version](manual-cs.md).

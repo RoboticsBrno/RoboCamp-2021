@@ -19,4 +19,7 @@ Resistor
 - Tolerance: 1%
 - Series: E24
 
+English manual is not available at the moment. See the [Czech
+version](manual-cs.md).
+
 Created by Jakub Andrýsek.
