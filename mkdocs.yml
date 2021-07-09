@@ -13,6 +13,9 @@ theme:
     features:
         - navigation.expand
         - navigation.instant
+        # - navigation.tracking
+        # - navigation.instant
+    custom_dir: overrides
 
 
 docs_dir: gadgets
@@ -64,7 +67,8 @@ extra:
     #         gallery: true    
 
 extra_javascript:
-  - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.2/highlight.min.js
+  - assets/highlight/highlight.min.js
   - assets/config.js
 extra_css:
-  - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.2/styles/default.min.css    
+  - assets/highlight/default.min.css
+  - assets/style.css
