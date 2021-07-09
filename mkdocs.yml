@@ -49,6 +49,9 @@ nav:
     - Pájecí výzva:
         - solderingChallenge/README.md
         - solderingChallenge/manual.md
+    - BlackBox:
+        - blackBox/README.md
+        - blackBox/manual.md        
     
 extra:
   social:
