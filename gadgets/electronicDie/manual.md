@@ -37,18 +37,18 @@
 <hr>
 
 ![RoboSvit schéma](assets/Electronic_dice-10.jpg)<br>
-10. Osadíme 7 **červených LEDek** (LED1, LED2, LED3, LED4, LED5, LED6, LED7)
+10. Osadíme 7 **červených LEDek** (LED1, LED2, LED3, LED4, LED5, LED6, LED7) **Je třeba dodržet otočení dle nákresu na desce!**
 <hr>
 
 ![RoboSvit schéma](assets/Electronic_dice-11.jpg)<br>
-11<!-- ![RoboSvit schéma](assets/logic-28.jpg)<br>
-28. 
+11. Osadíme **tlačítko** (S1)
+<!-- ![RoboSvit schéma](assets/logic-28.jpg)<br>
+12. 
 <hr> -->
 
 <!-- ![RoboSvit schéma](assets/logic-29.jpg)<br>
 29. 
 <hr> -->
-.  Osadíme **tlačítko** (S1)
 <hr>
 
 ![RoboSvit schéma](assets/Electronic_dice-12.jpg)<br>
@@ -68,4 +68,4 @@
 <hr>
 
 ![RoboSvit schéma](assets/Electronic_dice-16.jpg)<br>
-16.  Svítící hrací kostka zapojená v power bance
+16.  Svítící hrací kostka zapojená v powerbance
