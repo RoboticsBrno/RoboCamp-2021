@@ -8,3 +8,6 @@ Deska obsahuje 105 inteligentních ledek a 9 uživatelsky programovatelných tla
 Pro zvukovou signalizaci je na Logicu také piezo.
 
 Mozkem Logicu je moderní mikrokontrolér ESP32.
+
+![RoboSvit schéma](assets/fancy/Logic_fancy-4.jpg)
+![RoboSvit schéma](assets/fancy/Logic_fancy-1.png)

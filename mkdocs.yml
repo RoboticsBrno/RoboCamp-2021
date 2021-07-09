@@ -8,8 +8,8 @@ theme:
         primary: deep orange
         accent: light green
     language: cs
-    # logo: assets/logo.png
-    # favicon: images/favicon.png
+    logo: assets/logo.png
+    favicon: assets/logo180.png
     features:
         - navigation.expand
         - navigation.instant
@@ -19,7 +19,6 @@ docs_dir: gadgets
 
 plugins:
     - awesome-pages
-    # - literate-nav
     - search
 
 nav:
