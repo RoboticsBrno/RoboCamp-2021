@@ -1,4 +1,3 @@
-# Hrací kostka
+# O co jde?
 
-- [Návod (CZ)](manual-cs.md)
-- [Manual (EN)](manual-en.md)
+Hrací kostka je...

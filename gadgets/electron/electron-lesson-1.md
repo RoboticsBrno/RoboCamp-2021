@@ -1,4 +1,4 @@
-# Lekce 1
+# Electron lekce 1
 
 ## 1. Tlačítko, odpor a LED dioda
 

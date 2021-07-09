@@ -1,4 +1,4 @@
-# Lekce 2
+# Electron lekce 2
 
 ## 4. AND
 

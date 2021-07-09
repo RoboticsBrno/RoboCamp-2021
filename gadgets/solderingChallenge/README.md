@@ -1,9 +1,4 @@
-# Soldering challenge
+# O co jde?
 
-A series of simple 555-based LED flashers that gradually shrinks the packages.
-Power it by plugging it into an USB port and test your soldering skills!
-
-![The PCBs](assets/previewAll.jpg)
-
-- [Návod (CZ)](manual-cs.md)
-- [Manual (EN)](manual-en.md)
+Pájecí výzva obsahuje jeden relativně jednoduchý obvod založený na populárním
+integrovaném obvodu 555. Pokud se ti podaří správně zapájet všechny součástky, tak po zapojení do USB portu začne LED blikat s frekvencí cca 2 Hz.

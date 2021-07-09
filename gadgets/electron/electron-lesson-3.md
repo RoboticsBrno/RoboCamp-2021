@@ -1,4 +1,4 @@
-# Lekce 3
+# Electron lekce 3
 
 ## 10. Experiment s tranzistorem
 

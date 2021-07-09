@@ -1,9 +1,29 @@
-# Electron
+# O co jde?
+
+Electron je... (zde @Martin něco napíše)
+
+## Schématické značky
+
+|	Název		            |			Značka			|
+| -------------             | ------------------------- |
+|Baterie		            |![](assets/electron-01.svg)|
+|Rezistor		            |![](assets/electron-02.svg)|
+|Kondenzátor	            |![](assets/electron-06.svg)|
+|Kondenzátor polarizovaný   |![](assets/electron-09.svg)|
+|LED    		            |![](assets/electron-03.svg)|
+|Tlačítko		            |![](assets/electron-04.svg)|
+|Přepínač		            |![](assets/electron-05.svg)|
+|Potenciometr	            |![](assets/electron-07.svg)|
+|Tranzistor NPN             |![](assets/electron-08.svg)|
+|Tranzistor PNP             |![](assets/electron-091.svg)|
+
+<hr>
+
+## Správné zapojování kabelů k součástkám
+![](assets/electron-23.png)
+### [Další lekce](electron-lesson-1.md)
 
 
 
-0. [Úvod](electron-intro.md)
-1. [Lekce  1](electron-lesson-1.md)
-2. [Lekce  2](electron-lesson-2.md)
-3. [Lekce  3](electron-lesson-3.md)
+
 

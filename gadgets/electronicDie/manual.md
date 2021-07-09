@@ -1,7 +1,4 @@
-# Hrací kostka
-
-
-## Návod na složení
+# Návod
 
 ![RoboSvit schéma](assets/Electronic_dice-01.jpg)<br>
 1. Připravíme si desku pro hrací kostku

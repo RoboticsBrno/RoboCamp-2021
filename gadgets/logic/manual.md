@@ -1,4 +1,4 @@
-# Logic
+# Návod
 
 Logic je univerzální programovatelná deska určená pro výuku základů programování.
 Tvar desky je navržen tak, aby se na něm dala jednoduše hrát oblíbená hra Logik.
@@ -91,7 +91,7 @@ Mozkem Logicu je moderní mikrokontrolér ESP32.
 <hr>
 
 ![RoboSvit schéma](assets/logic-24.jpg)<br>
-24. Připravíme se 4 šroubky
+24. Připravíme si 4 šroubky
 <hr>
 
 ![RoboSvit schéma](assets/logic-25.jpg)<br>
