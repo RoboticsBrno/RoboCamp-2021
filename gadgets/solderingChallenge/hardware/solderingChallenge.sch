@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 7
+Sheet 1 6
 Title ""
 Date ""
 Rev ""
@@ -42,11 +42,5 @@ S 8550 3350 1450 1100
 U 600FF353
 F0 "Level 5 - 0201" 50
 F1 "level5-0201.sch" 50
-$EndSheet
-$Sheet
-S 6450 4750 1700 950 
-U 60142645
-F0 "Level 4 alternative - 0402" 50
-F1 "leve4-alt-0402.sch" 50
 $EndSheet
 $EndSCHEMATC

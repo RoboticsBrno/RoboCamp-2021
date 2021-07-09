@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 6 7
+Sheet 6 6
 Title ""
 Date ""
 Rev ""
@@ -121,7 +121,7 @@ Wire Wire Line
 	4450 4250 4450 3650
 Connection ~ 5300 4250
 $Comp
-L Connector:USB_A J?
+L solderingChallenge-rescue:USB_A-Connector J?
 U 1 1 6010069B
 P 4450 3250
 AR Path="/6010069B" Ref="J?"  Part="1" 
