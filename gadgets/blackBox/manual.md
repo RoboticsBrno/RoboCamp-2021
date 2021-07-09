@@ -58,7 +58,7 @@ tento díl **4x**
 <hr>
 
 ![RoboSvit schéma](assets/blackBox-15.jpg)<br>
-15. Postupně vložíme všechny čtyři slepence C do slepence A, a vyzkoušime jestli se může volně točit. Pokud ne, skontrolujeme, jestli někde nezůstalo nadbytečné lepidlo, případně můžeme styčné plochy lehce obrousit.
+15. Postupně vložíme všechny čtyři slepence C do slepence A, a vyzkoušíme, jestli se může volně točit. Pokud ne, zkontrolujeme, jestli někde nezůstalo nadbytečné lepidlo, případně můžeme styčné plochy lehce obrousit.
 **Nic nelepíme!**
 <hr>
 
@@ -119,11 +119,11 @@ tento díl **4x**
 <hr>
 
 ![RoboSvit schéma](assets/blackBox-30.jpg)<br>
-30. Postupně nalepíme všechny tři dílý K4 dle obrázků
+30. Postupně nalepíme všechny tři díly K4 dle obrázků
 <hr>
 
 ![RoboSvit schéma](assets/blackBox-31.jpg)<br>
-31. Postupně nalepíme všechny tři dílý K4 dle obrázků
+31. Postupně nalepíme všechny tři díly K4 dle obrázků
 <hr>
 
 ![RoboSvit schéma](assets/blackBox-32.jpg)<br>
