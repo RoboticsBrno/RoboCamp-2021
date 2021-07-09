@@ -1,5 +1,6 @@
 # Robotický tábor
-Vítej na stránkách Robotického tábora 2021
+
+## Vítej na stránkách Robotického tábora 2021
 
 
 <div align="center">
@@ -17,7 +18,7 @@ Vítej na stránkách Robotického tábora 2021
             </a>
         </div>
         <div class="col--1">
-            <a href="electron/">
+            <a href="logic/">
                 <img src="logic/assets/fancy/Logic_fancy-1.png">
                 <h2>Logic</h2>
             </a>
@@ -66,7 +67,7 @@ Vítej na stránkách Robotického tábora 2021
             </a>    
         </td>
         <td>
-            <a href="electron/">
+            <a href="blackBox/">
                 <div id="tableMain">
                     <img src="blackBox/assets/blackBox-01.jpg">
                     <h2>BlackBox</h2>

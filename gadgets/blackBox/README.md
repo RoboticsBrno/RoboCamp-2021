@@ -4,5 +4,7 @@ BlackBox M3 je mechanická stavebnice a představuje jednoduchý trezor. Sklád�
 
 Na ovládacích kolečkách jsou vygravírované číselníky, na kterých se dá při výrobě nastavit požadovaný kód. Celý výrobek pak má tvar krychle o straně 128 mm, což je násobek 16, a tak se dá BlackBox jednoduše zkombinovat s dřívky.
 
+![](assets/balckBox-fancy.png)
+
 
 
