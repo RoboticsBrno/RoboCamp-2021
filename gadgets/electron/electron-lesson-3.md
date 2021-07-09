@@ -23,7 +23,7 @@ Jednoduchý zesilovač- tzv. Darlingtonovo zapojení je na schématu. Po zapojen
 
 Zapojte obvod podle schématu. Obvod je už poněkud složitější, proto proveďte dílčí kontrolu po zapojení části oscilátoru, abyste snížili riziko chyby v celkovém zapojení a kontrolu po zapojení celého obvodu. Pokud jste si jisti, můžete připojit baterii. Stiskněte tlačítko a začnou blikat LED diody.
 
-Co se v tomto zařízení odehrává? Po stisku tlačítka se přivede napájení k obvodu, jehož součástky a způsob zapojení je zvolen tak, aby v něm došlo ke kmitům, neboli aby se samočinně střídavě spínaly jeden nebo druhý tranzistor. Na kolektor T je s odporem R 560Ω připojena LED dioda, takže když je právě sepnut tento tranzistor, teče do kolektoru proud přes odpor R a LED diodu a ta se rozsvítí. V okamžiku, kdy se T vypne, přestane do jeho kolektoru téci proud a LED dioda zhasne.
+Co se v tomto zařízení odehrává? Po stisku tlačítka se přivede napájení k obvodu, jehož součástky a způsob zapojení je zvolen tak, aby v něm došlo ke kmitům, neboli aby se samočinně střídavě spínaly jeden nebo druhý tranzistor. Na kolektor T je s odporem R 560 Ω připojena LED dioda, takže když je právě sepnut tento tranzistor, teče do kolektoru proud přes odpor R a LED diodu a ta se rozsvítí. V okamžiku, kdy se T vypne, přestane do jeho kolektoru téci proud a LED dioda zhasne.
 
 ![](assets/electron-33.svg)
 

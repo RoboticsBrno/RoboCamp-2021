@@ -9,23 +9,23 @@
 <hr>
 
 ![RoboSvit schéma](assets/Electronic_dice-03.jpg)<br>
-3. Osadíme 3 rezistory **7MΩ** (R1, R4, R9)
+3. Osadíme 3 rezistory **7 MΩ** (R1, R4, R9)
 <hr>
 
 ![RoboSvit schéma](assets/Electronic_dice-04.jpg)<br>
-4. Osadíme 3 rezistory **10kΩ** (R3, R6, R10)
+4. Osadíme 3 rezistory **10 kΩ** (R3, R6, R10)
 <hr>
 
 ![RoboSvit schéma](assets/Electronic_dice-05.jpg)<br>
-5. Osadíme 3 rezistory **1kΩ** (R5, R7, R8)
+5. Osadíme 3 rezistory **1 kΩ** (R5, R7, R8)
 <hr>
 
 ![RoboSvit schéma](assets/Electronic_dice-06.jpg)<br>
-6. Osadíme rezistor **2kΩ** (R2)
+6. Osadíme rezistor **2 kΩ** (R2)
 <hr>
 
 ![RoboSvit schéma](assets/Electronic_dice-07.jpg)<br>
-7. Osadíme 4 kondenzátory **100nF** (C1, C2, C3, C4)
+7. Osadíme 4 kondenzátory **100 nF** (C1, C2, C3, C4)
 <hr>
 
 ![RoboSvit schéma](assets/Electronic_dice-08.jpg)<br>

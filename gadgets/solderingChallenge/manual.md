@@ -2,7 +2,7 @@
 
 ## Jak postupovat?
 
-- vždy pájej pouze jednu úroveň najenou!
+- **vždy pájej pouze jednu úroveň najednou!**
 - jelikož malé součástky na sobě nemají popisky, choď si pro součástky po jedné.
   Vždy si dones jednu součástku, tu zapájej a až pak si běž pro další.
 - začni připájením integrovaného obvodu - na něj potřebuješ nejvíce prostoru. U
@@ -38,4 +38,4 @@
 Pokud tě zajímá, jak funguje obvod, který jsi právě zapájel, podívej se např. na
 [tento web](https://www.mylms.cz/zapojeni-casovace-555/). Tam se dočteš, jak
 funguje integrovaný obvod 555. V naší pájecí výzvě používáme takzvané *astabilní
-zapojení* neboli *multivíbrátor*, který je na výše zmíněné stránce vysvětlen.
+zapojení* neboli *multivibrátor*, který je na výše zmíněné stránce vysvětlen.
