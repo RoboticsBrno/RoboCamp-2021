@@ -52,5 +52,3 @@ Vraťme se k našemu schématu. V sériovém zapojení podle návodu č.2 byl v�
 ![R=\frac{R1\cdot R2}{R1 + R2}=\frac{560\cdot 180}{560+180}=136.2 \Omega](assets/electron-38.svg)
 
 ![](assets/electron-15.svg)
-
-### [Další lekce](electron-lesson-2.md)

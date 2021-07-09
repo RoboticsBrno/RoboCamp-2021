@@ -54,16 +54,16 @@
      id="layer1"
      transform="translate(25.260512,-111.67178)">
     <g
-       style="fill:#008484;fill-opacity:0;stroke:#008484;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:0;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        id="g3214"
        transform="matrix(0.01042115,0,0,0.01042115,-1635.0111,-216.27736)" />
     <g
        id="g3216"
-       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       style="fill:#ff6e42;fill-opacity:0;stroke:#ff6e42;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        transform="matrix(0.01042115,0,0,0.01042115,-1635.0111,-216.27736)" />
     <g
        id="g3220"
-       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       style="fill:#ff6e42;fill-opacity:0;stroke:#ff6e42;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        transform="matrix(0.01042115,0,0,0.01042115,-1635.0111,-216.27736)">
       <circle
          id="circle3218"
@@ -73,7 +73,7 @@
     </g>
     <g
        id="g3236"
-       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       style="fill:#ff6e42;fill-opacity:0;stroke:#ff6e42;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        transform="matrix(0.01042115,0,0,0.01042115,-1635.0111,-216.27736)">
       <text
          id="text3222"
@@ -106,37 +106,37 @@
       <path
          id="path3232"
          d="m 156750,33250 750,-750"
-         style="fill:none;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         style="fill:none;fill-opacity:0;stroke:#ff6e42;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
          inkscape:connector-curvature="0" />
       <path
          id="path3234"
          d="m 156750,33750 750,750 v 0"
-         style="fill:none;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         style="fill:none;fill-opacity:0;stroke:#ff6e42;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
          inkscape:connector-curvature="0" />
     </g>
     <g
        id="g3240"
-       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:200;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       style="fill:#ff6e42;fill-opacity:0;stroke:#ff6e42;stroke-width:200;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        transform="matrix(0.01042115,0,0,0.01042115,-1635.0111,-216.27736)">
       <path
          id="path3238"
          d="m 156750,32750 v 1500 0"
-         style="fill:none;fill-opacity:0;stroke:#840000;stroke-width:200;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         style="fill:none;fill-opacity:0;stroke:#ff6e42;stroke-width:200;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
          inkscape:connector-curvature="0" />
     </g>
     <g
        id="g3244"
-       style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       style="fill:#ff6e42;fill-opacity:1;stroke:#ff6e42;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        transform="matrix(0.01042115,0,0,0.01042115,-1635.0111,-216.27736)">
       <path
          id="path3242"
          d="m 157400,34200 -200,200 -200,-400 z"
-         style="fill:#840000;fill-opacity:1;fill-rule:evenodd;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         style="fill:#ff6e42;fill-opacity:1;fill-rule:evenodd;stroke:#ff6e42;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
          inkscape:connector-curvature="0" />
     </g>
     <g
        id="g3264"
-       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       style="fill:#ff6e42;fill-opacity:0;stroke:#ff6e42;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        transform="matrix(0.01042115,0,0,0.01042115,-1635.0111,-216.27736)">
       <path
          id="path3246"

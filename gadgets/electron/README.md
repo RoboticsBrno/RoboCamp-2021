@@ -21,7 +21,6 @@ Electron je... (zde @Martin něco napíše)
 
 ## Správné zapojování kabelů k součástkám
 ![](assets/electron-23.png)
-### [Další lekce](electron-lesson-1.md)
 
 
 

@@ -56,47 +56,47 @@
     <g
        transform="matrix(0.01027496,0,0,0.01027496,-584.76763,-288.05472)"
        id="g2938"
-       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+       style="fill:#ff6e42;fill-opacity:0;stroke:#ff6e42;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
       <path
          inkscape:connector-curvature="0"
          id="path2936"
          d="M 58000,46500 H 57000"
-         style="fill:none;fill-opacity:0;stroke:#840000;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+         style="fill:none;fill-opacity:0;stroke:#ff6e42;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
     </g>
     <g
        transform="matrix(0.01027496,0,0,0.01027496,-584.76763,-288.05472)"
        id="g2942"
-       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+       style="fill:#ff6e42;fill-opacity:0;stroke:#ff6e42;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
       <path
          inkscape:connector-curvature="0"
          id="path2940"
          d="M 57500,46500 V 45500"
-         style="fill:none;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+         style="fill:none;fill-opacity:0;stroke:#ff6e42;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
     </g>
     <g
        transform="matrix(0.01027496,0,0,0.01027496,-584.76763,-288.05472)"
        id="g2946"
-       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+       style="fill:#ff6e42;fill-opacity:0;stroke:#ff6e42;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
       <path
          inkscape:connector-curvature="0"
          id="path2944"
          d="m 58000,45500 h -1000 l 500,1000 z"
-         style="fill:none;fill-opacity:0;stroke:#840000;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+         style="fill:none;fill-opacity:0;stroke:#ff6e42;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
     </g>
     <g
        transform="matrix(0.01027496,0,0,0.01027496,-584.76763,-288.05472)"
        id="g2956"
-       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+       style="fill:#ff6e42;fill-opacity:0;stroke:#ff6e42;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
       <path
          inkscape:connector-curvature="0"
          id="path2948"
          d="m 57800,47200 600,600 v -300 300 h -300"
-         style="fill:none;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+         style="fill:none;fill-opacity:0;stroke:#ff6e42;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path2950"
          d="m 57800,46700 600,600 v -300 300 h -300"
-         style="fill:none;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+         style="fill:none;fill-opacity:0;stroke:#ff6e42;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path2952"
@@ -114,31 +114,31 @@
        font-size="660"
        lengthAdjust="spacingAndGlyphs"
        id="text2966"
-       style="font-size:660px;text-anchor:middle;opacity:0;fill:#008484;fill-opacity:0;stroke:#008484;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">LED</text>
+       style="font-size:660px;text-anchor:middle;opacity:0;fill:#ffffff;fill-opacity:0;stroke:#ffffff;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">LED</text>
     <path
-       style="fill:#008484;fill-opacity:0;stroke:#008484;stroke-width:0.6164974;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:0;stroke:#ffffff;stroke-width:0.6164974;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        d="m 22.071348,191.88852 h -2.36324 v -5.13748"
        id="path2968"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#008484;fill-opacity:0;stroke:#008484;stroke-width:0.6164974;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:0;stroke:#ffffff;stroke-width:0.6164974;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        d="m 23.818091,189.21703 h 1.746743"
        id="path2970"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#008484;fill-opacity:0;stroke:#008484;stroke-width:0.6164974;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:0;stroke:#ffffff;stroke-width:0.6164974;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        d="m 26.284081,191.88852 h -2.46599 v -5.13748 h 2.46599"
        id="path2972"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#008484;fill-opacity:0;stroke:#008484;stroke-width:0.6164974;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:0;stroke:#ffffff;stroke-width:0.6164974;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        d="m 28.441822,191.88852 v -5.13748 h 1.232995 l 0.719247,0.30825 0.513748,0.411 0.205499,0.51375 0.308248,1.02749 v 0.71925 l -0.308248,0.92475 -0.205499,0.51374 -0.513748,0.51375 -0.719247,0.2055 h -1.232995"
        id="path2974"
        inkscape:connector-curvature="0" />
     <g
        transform="matrix(0.01027496,0,0,0.01027496,-584.76763,-288.05472)"
        id="g2986"
-       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+       style="fill:#ff6e42;fill-opacity:0;stroke:#ff6e42;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
       <rect
          id="rect2984"
          rx="0"
@@ -150,7 +150,7 @@
     <g
        transform="matrix(0.01027496,0,0,0.01027496,-584.76763,-288.05472)"
        id="g2992"
-       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+       style="fill:#ff6e42;fill-opacity:0;stroke:#ff6e42;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
       <path
          inkscape:connector-curvature="0"
          id="path2988"
@@ -163,7 +163,7 @@
     <g
        transform="matrix(0.01027496,0,0,0.01027496,-584.76763,-288.05472)"
        id="g3012"
-       style="fill:#008484;fill-opacity:0;stroke:#008484;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+       style="fill:#ffffff;fill-opacity:0;stroke:#ffffff;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
       <text
          style="font-size:660px;text-anchor:middle;opacity:0"
          id="text2994"
@@ -212,7 +212,7 @@
     <g
        transform="matrix(0.01027496,0,0,0.01027496,-584.76763,-288.05472)"
        id="g3022"
-       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+       style="fill:#ff6e42;fill-opacity:0;stroke:#ff6e42;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
       <rect
          id="rect3020"
          rx="0"
@@ -224,27 +224,27 @@
     <g
        transform="matrix(0.01027496,0,0,0.01027496,-584.76763,-288.05472)"
        id="g3026"
-       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+       style="fill:#ff6e42;fill-opacity:0;stroke:#ff6e42;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
       <path
          inkscape:connector-curvature="0"
          id="path3024"
          d="m 56000,40000 h -400"
-         style="fill:none;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+         style="fill:none;fill-opacity:0;stroke:#ff6e42;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
     </g>
     <g
        transform="matrix(0.01027496,0,0,0.01027496,-584.76763,-288.05472)"
        id="g3030"
-       style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+       style="fill:#ff6e42;fill-opacity:1;stroke:#ff6e42;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
       <path
          inkscape:connector-curvature="0"
          id="path3028"
          d="m 55450,40000 450,-200 v 400 z"
-         style="fill:#840000;fill-opacity:1;fill-rule:evenodd;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+         style="fill:#ff6e42;fill-opacity:1;fill-rule:evenodd;stroke:#ff6e42;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
     </g>
     <g
        transform="matrix(0.01027496,0,0,0.01027496,-584.76763,-288.05472)"
        id="g3056"
-       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+       style="fill:#ff6e42;fill-opacity:0;stroke:#ff6e42;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
       <path
          inkscape:connector-curvature="0"
          id="path3032"
@@ -309,7 +309,7 @@
     <g
        transform="matrix(0.01027496,0,0,0.01027496,-584.76763,-288.05472)"
        id="g3098"
-       style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+       style="fill:#ff6e42;fill-opacity:1;stroke:#ff6e42;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
       <rect
          id="rect3094"
          rx="0"
@@ -328,37 +328,37 @@
     <g
        transform="matrix(0.01027496,0,0,0.01027496,-584.76763,-288.05472)"
        id="g3104"
-       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+       style="fill:#ff6e42;fill-opacity:0;stroke:#ff6e42;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
       <path
          inkscape:connector-curvature="0"
          id="path3100"
          d="m 46000,44200 v 300"
-         style="fill:none;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+         style="fill:none;fill-opacity:0;stroke:#ff6e42;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path3102"
          d="m 46000,43800 v -300"
-         style="fill:none;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+         style="fill:none;fill-opacity:0;stroke:#ff6e42;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
     </g>
     <g
        transform="matrix(0.01027496,0,0,0.01027496,-584.76763,-288.05472)"
        id="g3110"
-       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+       style="fill:#ff6e42;fill-opacity:0;stroke:#ff6e42;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
       <path
          inkscape:connector-curvature="0"
          id="path3106"
          d="m 46200,43150 h 400"
-         style="fill:none;fill-opacity:0;stroke:#840000;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+         style="fill:none;fill-opacity:0;stroke:#ff6e42;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path3108"
          d="m 46400,42950 v 400"
-         style="fill:none;fill-opacity:0;stroke:#840000;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+         style="fill:none;fill-opacity:0;stroke:#ff6e42;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
     </g>
     <g
        transform="matrix(0.01027496,0,0,0.01027496,-584.76763,-288.05472)"
        id="g3116"
-       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+       style="fill:#ff6e42;fill-opacity:0;stroke:#ff6e42;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
       <path
          inkscape:connector-curvature="0"
          id="path3112"
@@ -371,7 +371,7 @@
     <g
        transform="matrix(0.01027496,0,0,0.01027496,-584.76763,-288.05472)"
        id="g3204"
-       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+       style="fill:#ff6e42;fill-opacity:0;stroke:#ff6e42;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
       <circle
          id="circle3174"
          r="200"
@@ -391,12 +391,12 @@
          inkscape:connector-curvature="0"
          id="path3180"
          d="m 49500,39600 v -800"
-         style="fill:none;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+         style="fill:none;fill-opacity:0;stroke:#ff6e42;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path3182"
          d="m 48900,39900 1600,-700"
-         style="fill:none;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+         style="fill:none;fill-opacity:0;stroke:#ff6e42;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path3184"
@@ -451,82 +451,82 @@
          d="m 50830,41070 h 310 l -170,190 h 70 l 50,30 20,20 30,50 v 120 l -30,40 -20,30 -50,20 h -140 l -50,-20 -20,-30" />
     </g>
     <path
-       style="fill:#008400;fill-opacity:0;stroke:#008400;stroke-width:0.6164974;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       style="fill:#ff6e41;fill-opacity:0;stroke:#ff6e41;stroke-width:0.6164974;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        inkscape:connector-curvature="0"
        id="path5918"
        d="M -50.469857,112.6686 V 102.39365" />
     <path
-       style="fill:#008400;fill-opacity:0;stroke:#008400;stroke-width:0.6164974;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       style="fill:#ff6e41;fill-opacity:0;stroke:#ff6e41;stroke-width:0.6164974;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        inkscape:connector-curvature="0"
        id="path5920"
        d="m 6.0424153,205.14322 v -5.13748" />
     <path
-       style="fill:#008400;fill-opacity:0;stroke:#008400;stroke-width:0.6164974;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       style="fill:#ff6e41;fill-opacity:0;stroke:#ff6e41;stroke-width:0.6164974;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        inkscape:connector-curvature="0"
        id="path5922"
        d="M -112.1196,205.14322 H 6.0424153" />
     <path
-       style="fill:#008400;fill-opacity:0;stroke:#008400;stroke-width:0.6164974;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       style="fill:#ff6e41;fill-opacity:0;stroke:#ff6e41;stroke-width:0.6164974;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        inkscape:connector-curvature="0"
        id="path5924"
        d="m -112.1196,179.45582 v 25.6874" />
     <path
-       style="fill:#008400;fill-opacity:0;stroke:#008400;stroke-width:0.6164974;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       style="fill:#ff6e41;fill-opacity:0;stroke:#ff6e41;stroke-width:0.6164974;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        inkscape:connector-curvature="0"
        id="path5926"
        d="m -19.644978,143.49347 v -5.13748" />
     <path
-       style="fill:#008400;fill-opacity:0;stroke:#008400;stroke-width:0.6164974;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       style="fill:#ff6e41;fill-opacity:0;stroke:#ff6e41;stroke-width:0.6164974;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        inkscape:connector-curvature="0"
        id="path5928"
        d="m -50.469857,143.49347 h 30.824879" />
     <path
-       style="fill:#008400;fill-opacity:0;stroke:#008400;stroke-width:0.6164974;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       style="fill:#ff6e41;fill-opacity:0;stroke:#ff6e41;stroke-width:0.6164974;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        inkscape:connector-curvature="0"
        id="path5930"
        d="m -50.469857,133.21852 v 10.27495" />
     <path
-       style="fill:#008400;fill-opacity:0;stroke:#008400;stroke-width:0.6164974;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       style="fill:#ff6e41;fill-opacity:0;stroke:#ff6e41;stroke-width:0.6164974;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        inkscape:connector-curvature="0"
        id="path5932"
        d="m -55.607336,133.21852 h 5.137479" />
     <path
-       style="fill:#008400;fill-opacity:0;stroke:#008400;stroke-width:0.6164974;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       style="fill:#ff6e41;fill-opacity:0;stroke:#ff6e41;stroke-width:0.6164974;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        inkscape:connector-curvature="0"
        id="path5934"
        d="m -19.644978,102.39365 v 5.13747" />
     <path
-       style="fill:#008400;fill-opacity:0;stroke:#008400;stroke-width:0.6164974;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       style="fill:#ff6e41;fill-opacity:0;stroke:#ff6e41;stroke-width:0.6164974;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        inkscape:connector-curvature="0"
        id="path5936"
        d="m -50.469857,102.39365 h 30.824879" />
     <path
-       style="fill:#008400;fill-opacity:0;stroke:#008400;stroke-width:0.6164974;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       style="fill:#ff6e41;fill-opacity:0;stroke:#ff6e41;stroke-width:0.6164974;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        inkscape:connector-curvature="0"
        id="path5938"
        d="m 6.0424153,169.18087 v -5.13748" />
     <path
-       style="fill:#008400;fill-opacity:0;stroke:#008400;stroke-width:0.6164974;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       style="fill:#ff6e41;fill-opacity:0;stroke:#ff6e41;stroke-width:0.6164974;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        inkscape:connector-curvature="0"
        id="path5940"
        d="m -55.607336,112.6686 h 5.137479" />
     <path
-       style="fill:#008400;fill-opacity:0;stroke:#008400;stroke-width:0.6164974;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       style="fill:#ff6e41;fill-opacity:0;stroke:#ff6e41;stroke-width:0.6164974;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        inkscape:connector-curvature="0"
        id="path5942"
        d="m -112.1196,122.94356 h 15.412436" />
     <path
-       style="fill:#008400;fill-opacity:0;stroke:#008400;stroke-width:0.6164974;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       style="fill:#ff6e41;fill-opacity:0;stroke:#ff6e41;stroke-width:0.6164974;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        inkscape:connector-curvature="0"
        id="path5944"
        d="M -112.1196,148.63095 V 122.94356" />
     <path
-       style="fill:#008400;fill-opacity:0;stroke:#008400;stroke-width:0.6164974;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       style="fill:#ff6e41;fill-opacity:0;stroke:#ff6e41;stroke-width:0.6164974;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        inkscape:connector-curvature="0"
        id="path5994"
        d="m 6.0424153,122.94356 v 10.27496" />
     <path
-       style="fill:#008400;fill-opacity:0;stroke:#008400;stroke-width:0.6164974;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       style="fill:#ff6e41;fill-opacity:0;stroke:#ff6e41;stroke-width:0.6164974;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        inkscape:connector-curvature="0"
        id="path5996"
        d="M -4.2325419,122.94356 H 6.0424153" />

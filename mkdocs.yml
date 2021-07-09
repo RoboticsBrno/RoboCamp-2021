@@ -6,6 +6,7 @@ theme:
     palette:
         scheme: slate
         primary: deep orange
+        accent: light green
     language: cs
     # logo: assets/logo.png
     # favicon: images/favicon.png
@@ -48,5 +49,5 @@ extra:
       name: IREE Discord Server
     # - icon: fontawesome/brands/twitter
     #   link: 
-    lightbox:
-            gallery: true    
+    # lightbox:
+    #         gallery: true    

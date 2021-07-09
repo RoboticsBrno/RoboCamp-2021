@@ -1,3 +1,3 @@
 # O co jde?
 
-Hrací kostka je...
+Hrací kostka je.

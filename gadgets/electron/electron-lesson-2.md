@@ -92,6 +92,3 @@ Ve schématech se už většinou nepíše písmeno "F"- značka Faradu za hodnot
 Při experimentování a zapojování elektrolytických kondenzátorů do obvodu je nutno dbát, aby vývod "+" byl připojen na vyšší napětí, než vývod "-". Při dlouhodobějším opačném připojení by mohlo dojít k poškození kondenzátoru.
 
 ![](assets/electron-26.svg)
-
-
-### [Další lekce](electron-lesson-3.md)

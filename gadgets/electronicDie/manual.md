@@ -41,7 +41,14 @@
 <hr>
 
 ![RoboSvit schéma](assets/Electronic_dice-11.jpg)<br>
-1.  Osadíme **tlačítko** (S1)
+11<!-- ![RoboSvit schéma](assets/logic-28.jpg)<br>
+28. 
+<hr> -->
+
+<!-- ![RoboSvit schéma](assets/logic-29.jpg)<br>
+29. 
+<hr> -->
+.  Osadíme **tlačítko** (S1)
 <hr>
 
 ![RoboSvit schéma](assets/Electronic_dice-12.jpg)<br>
