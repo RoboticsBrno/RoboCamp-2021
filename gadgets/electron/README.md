@@ -1,6 +1,9 @@
 # O co jde?
 
-Electron je... (zde @Martin něco napíše)
+Electron je stavebnice pro výuku základních znalostí elektroniky.
+Jednotlivé elektronické součástky jsou umístěny na samostatných deskách plošných spojů.
+
+Spojování probíhá pomocí drátů, které se zasunou do předchystaných děr a zajistí se gumovými špunty. Alternativně jsou nachystány pinheady pro případné použití "čínských" kabelů s dutinkami.
 
 ## Schématické značky
 

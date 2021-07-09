@@ -9,5 +9,5 @@ Pro zvukovou signalizaci je na Logicu také piezo.
 
 Mozkem Logicu je moderní mikrokontrolér ESP32.
 
-![RoboSvit schéma](assets/fancy/Logic_fancy-4.jpg)
 ![RoboSvit schéma](assets/fancy/Logic_fancy-1.png)
+![RoboSvit schéma](assets/fancy/Logic_fancy-2.png)

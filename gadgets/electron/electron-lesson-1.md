@@ -1,11 +1,11 @@
 # Electron lekce 1
 
-## 1. Tlačítko, odpor a LED dioda
+## 1. Tlačítko, rezistor a LED dioda
 
-Obvod obsahuje zdroj elektrického napětí, spotřebič – LED dioda, odpor, který omezuje proud procházející diodou, spínací tlačítko a spojovací vodiče. 
+Obvod obsahuje zdroj elektrického napětí, spotřebič – LED dioda, rezistor, který omezuje proud procházející diodou, spínací tlačítko a spojovací vodiče. 
 Spojte na panelu zdířky dle schématu. 
 
-Po zmáčknutí tlačítka se rozsvítí LED dioda. Stiskem tlačítka se spojí jeho kontakty a uzavře se elektrický obvod. Elektrický proud teče po dobu stisku tlačítka od plus (+) pólu baterie přes propojené součástky k minus (-) pólu baterie. Ve schematu je dioda je zapojena v propustném směru neboli propouští proud a ten ji rozsvěcuje. Po uvolnění tlačítka se elektrický obvod přeruší, proud přestane procházet a LED dioda zhasne. 
+Po zmáčknutí tlačítka se rozsvítí LED dioda. Stiskem tlačítka se spojí jeho kontakty a uzavře se elektrický obvod. Elektrický proud teče po dobu stisku tlačítka od plus (+) pólu baterie přes propojené součástky k minus (-) pólu baterie. Ve schématu je dioda zapojena v propustném směru neboli propouští proud a ten ji rozsvěcuje. Po uvolnění tlačítka se elektrický obvod přeruší, proud přestane procházet a LED dioda zhasne. 
 
 Nyní zkuste připojit LED diodu obráceně (prohoďte vzájemně konce vodičů upevněné ve zdířkách). Dioda je nyní zapojena v závěrném směru, nepropouští proud, a tedy po zmáčknutí tlačítka nesvítí. 
 
@@ -13,7 +13,7 @@ Ověřili jste si tak základní vlastnost polovodičové diody – propouští 
 
 Můžete rozsvítit červenou, žlutou nebo zelenou diodu. 
 
-POZOR! Je nutné, aby v obvodu s LED diodou byl vždy zařazen omezovací odpor. Pokud byste připojili LED diodu v propustném směru přímo na zdroj napětí – baterii, zcela jistě byste LED diodu zničili.
+POZOR! Je nutné, aby v obvodu s LED diodou byl vždy zařazen omezovací rezistor. Pokud byste připojili LED diodu v propustném směru přímo na zdroj napětí – baterii, zcela jistě byste LED diodu zničili.
 
 
 ![](assets/electron-11.svg)
@@ -23,32 +23,32 @@ POZOR! Je nutné, aby v obvodu s LED diodou byl vždy zařazen omezovací odpor.
 ![](assets/electron-12.svg)
 
 
-**Napětí** na diodě je nižší než na vstupu. Je to způsobeno odporem, který snižuje protékající proud a napětí. Napětí na LED diodě by mělo být zhruba **2V**. 
-**Proud** procházející LED diodou je přibližně **16mA**, což stačí na to (aby vypalovala oči), aby se LED dioda rozsvítila. 
+**Napětí** na diodě je nižší než na vstupu. Je to způsobeno rezistorem, který snižuje protékající proud a napětí. Napětí na LED diodě by mělo být zhruba **2 V**. 
+**Proud** procházející LED diodou je přibližně **16 mA**, což stačí na to, aby se LED dioda rozsvítila. 
 
 
-## 2. Sériové zapojení odporů
+## 2. Sériové zapojení rezistorů
 
-Vlastnosti sériového spojení odporů si můžete ověřit na modelu dle schématu. Po zapojení se rozsvítí. Pokud je přepínač v poloze nahoře, proud musí procházet oběma odpory, z nichž každý svým dílem zmenšuje celkový proud v obvodu a LED dioda svítí slaběji. Pokud přepnete přepínač do spodní polohy, proudu se do cesty nestaví odpor 560Ω a protéká tak pouze odporem 180Ω. Souhrný odpor je tak menší a proto je proud větší a LED dioda svítí silněji. V tomto schématu jsou zařazeny v sérii dva odpory, ale je možno takhle za sebou propojit odporů více. Výsledný odpor R sériové kombinace odporů se rovná součtu hodnot jednotlivých odporů, v našem případě R = R3 + R2. R = 560 + 180 = 740Ω
+Vlastnosti sériového spojení rezistorů si můžete ověřit na modelu dle schématu. Po zapojení se rozsvítí. Pokud je přepínač v poloze nahoře, proud musí procházet oběma rezistory, z nichž každý svým dílem zmenšuje celkový proud v obvodu a LED dioda svítí slaběji. Pokud přepnete přepínač do spodní polohy, proudu se do cesty nestaví rezistor 560 Ω a protéká tak pouze rezistorem 180Ω. Souhrnný odpor je tak menší, a proto je proud větší, a LED dioda svítí silněji. V tomto schématu jsou zařazeny v sérii dva rezistory, ale je možno takhle za sebou propojit rezistorů více. Výsledný odpor R sériové kombinace rezistorů se rovná součtu hodnot jednotlivých rezistorů, v našem případě R = R3 + R2 = 560 + 180 = 740 Ω
 
 ![](assets/electron-13.svg)
 
 ### Měřené hodnoty
 ![](assets/electron-14.svg)
 
-**Napětí** na LED diodě, při pozici přepínače v poloze dole, by mělo být zhruba **2V**, v poloze na hoře je to o něco méně **1,9V**. 
+**Napětí** na LED diodě, při pozici přepínače v poloze dole, by mělo být zhruba **2 V**, v poloze nahoře je to o něco méně **1,9 V**. 
 
-**Proud** procházející LED diodou při pozici přepínače v poloze dole, je stejný jako v prvním příkladě tedy **16mA**, v poloze na hoře  je to o dost méně skoro **4,3mA**, což stále stačí na to, aby se LED dioda rozsvítila.
+**Proud** procházející LED diodou při pozici přepínače v poloze dole, je stejný jako v prvním příkladě, tedy **16 mA**, v poloze nahoře je to o dost méně skoro **4,3 mA**, což stále stačí na to, aby se LED dioda rozsvítila.
 
 
-## 3. Paralelní zapojení odporů
+## 3. Paralelní zapojení rezistorů
 
-Na tomto zapojení si můžete vyzkoušet, jaké vlastnosti bude mít zapojení odporů paralelně (souběžně) neboli vedle sebe. Zapojte obvod podle schématu. Rozsvítí se LED dioda a po stisku tlačítka se rozsvítí silněji. Vysvětlení je následující: pokud je tlačítko rozepnuto, proud prochází přes odpor 560Ω a rozsvěcuje LED diodu poněkud slaběji. Po stisknutí tlačítka začne proud procházet oběma odpory současně a je proto větší. To se projeví zvětšením jasu LED diody.
+Na tomto zapojení si můžete vyzkoušet, jaké vlastnosti bude mít zapojení rezistorů paralelně (souběžně) neboli vedle sebe. Zapojte obvod podle schématu. Rozsvítí se LED dioda a po stisku tlačítka se rozsvítí silněji. Vysvětlení je následující: pokud je tlačítko rozepnuto, proud prochází přes rezistor 560Ω a rozsvěcuje LED diodu poněkud slaběji. Po stisknutí tlačítka začne proud procházet oběma rezistory současně a je proto větší. To se projeví zvětšením jasu LED diody.
 
 Pro snadnější pochopení principu si představte situaci, kdy jedněmi dveřmi proudí do kina zástup lidí. V okamžiku, kdy se otevřou druhé dveře, začnou vcházet lidé i těmito dveřmi a kino se začne plnit rychleji.
 
-Vraťme se k našemu schématu. V sériovém zapojení podle návodu č.2 byl výsledný odpor větší než odpor kteréhokoli použitého odporu. Paralelně můžeme spojit dva i vice odporů. Výsledný odpor je vždy menší než hodnota nejmenšího z odporů zapojených paralelně. Přesně se výsledný odpor R v našem schématu vypočte podle vztahu:
+Vraťme se k našemu schématu. V sériovém zapojení podle návodu č.2 byl výsledný odpor větší než odpor kteréhokoli použitého rezistoru. Paralelně můžeme spojit dva i více rezistorů. Výsledný odpor je vždy menší než hodnota nejmenšího z rezistorů zapojených paralelně. Přesně se výsledný odpor R v našem schématu vypočte podle vztahu:
 
-![R=\frac{R1\cdot R2}{R1 + R2}=\frac{560\cdot 180}{560+180}=136.2 \Omega](assets/electron-38.svg)
+![R=\frac{R1\cdot R2}{R1 + R2}=\frac{560\cdot 180}{560+180}=136.2 \Omega](assets/electron-38.svg){align=center}
 
 ![](assets/electron-15.svg)

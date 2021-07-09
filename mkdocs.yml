@@ -21,6 +21,15 @@ plugins:
     - awesome-pages
     - search
 
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.keys
+  - attr_list
+
 nav:
     - index.md
     - Electron:
@@ -50,3 +59,9 @@ extra:
     #   link: 
     # lightbox:
     #         gallery: true    
+
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.2/highlight.min.js
+  - assets/config.js
+extra_css:
+  - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.2/styles/default.min.css    
