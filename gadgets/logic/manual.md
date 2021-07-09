@@ -55,11 +55,11 @@ Mozkem Logicu je moderní mikrokontrolér ESP32.
 <hr>
 
 ![RoboSvit schéma](assets/logic-17.jpg)<br>
-11. Vložíme na desky nachystané podložky
+11. Vložíme na šrouby nachystané podložky
 <hr>
 
 ![RoboSvit schéma](assets/logic-19.jpg)<br>
-12.   Nachystáme si 4 distanční sloupky a našroubujeme na desku
+12.   Nachystáme si 4 distanční sloupky a našroubujeme je na šrouby
 <hr>
 
 ![RoboSvit schéma](assets/logic-20.jpg)<br>
