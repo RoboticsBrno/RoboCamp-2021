@@ -28,7 +28,7 @@ Vítej na stránkách Robotického tábora 2021
         <div class="col--1">
             <a href="roboSvit/">
                 <img src="roboSvit/assets/roboSvit-propag/photo/roboSvit-propag-04.png">
-                <h2>Logic</h2>
+                <h2>RoboSvit</h2>
             </a>
         </div>
         <div class="col--1">
