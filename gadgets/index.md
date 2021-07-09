@@ -33,13 +33,13 @@ Vítej na stránkách Robotického tábora 2021
         </div>
         <div class="col--1">
             <a href="solderingChallenge/">
-                <img src="solderingChallenge/assets/labels-L1.svg">
+                <img src="solderingChallenge/assets/SMD_challenge_fancy.png">
                 <h2>Pájecí výzva</h2>
             </a>
         </div>
         <div class="col--1">
             <a href="blackBox/">
-                <img src="blackBox/assets/blackBox-01.jpg">
+                <img src="blackBox/assets/blba_bedna.png">
                 <h2>BlackBox</h2>
             </a>
         </div>
