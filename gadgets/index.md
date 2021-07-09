@@ -3,48 +3,114 @@ Vítej na stránkách Robotického tábora 2021
 
 
 <div align="center">
-    <table style="width:100% text-align: center">
-    <tr>
-        <td>
+    <div class="container">
+        <div class="col--1">
             <a href="electron/">
                 <img src="electron/assets/electron-34.svg">
                 <h2>Electron</h2>
+            </a>
+        </div>
+        <div class="col--1">
+            <a href="electronicDie/">
+                <img src="electronicDie/assets/fancy/Electronic_dice-fancy-01.png">
+                <h2>Hrací kostka</h2>
+            </a>
+        </div>
+        <div class="col--1">
+            <a href="electron/">
+                <img src="logic/assets/fancy/Logic_fancy-1.png">
+                <h2>Logic</h2>
+            </a>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="col--1">
+            <a href="roboSvit/">
+                <img src="roboSvit/assets/roboSvit-propag/photo/roboSvit-propag-04.png">
+                <h2>Logic</h2>
+            </a>
+        </div>
+        <div class="col--1">
+            <a href="solderingChallenge/">
+                <img src="solderingChallenge/assets/labels-L1.svg">
+                <h2>Pájecí výzva</h2>
+            </a>
+        </div>
+        <div class="col--1">
+            <a href="blackBox/">
+                <img src="blackBox/assets/blackBox-01.jpg">
+                <h2>BlackBox</h2>
+            </a>
+        </div>
+    </div>
+
+
+    <!-- <table style="width:100% text-align: center" class="flex-container>
+    <div id="tableMain">
+    <tr>
+        <td>
+            <a href="electron/">
+                <div id="tableMain">
+                    <img src="electron/assets/electron-34.svg">
+                    <h2>Electron</h2>
+                </div>
             </a>    
         </td>
         <td>
             <a href="electronicDie/">
-                <img src="electronicDie/assets/fancy/Electronic_dice-fancy-01.png">
-                <h2>Hrací kostka</h2>
+                <div id="tableMain">
+                    <img src="electronicDie/assets/fancy/Electronic_dice-fancy-01.png">
+                    <h2>Hrací kostka</h2>
+                </div>
             </a>    
         </td>
         <td>
             <a href="electron/">
-                <img src="logic/assets/fancy/Logic_fancy-1.png">
-                <h2>Logic</h2>
+                <div id="tableMain">
+                    <img src="blackBox/assets/blackBox-01.jpg">
+                    <h2>BlackBox</h2>
+                </div>
             </a>    
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <h2>Electron</h2>
+        </td>
+        <td>
+        </td>
+        <td>
         </td>
     </tr>
     <tr>
         <td>
             <a href="roboSvit/">
-                <img src="roboSvit/assets/roboSvit-propag/photo/roboSvit-propag-04.png">
-                <h2>Logic</h2>
+                <div id="tableMain">
+                    <img src="roboSvit/assets/roboSvit-propag/photo/roboSvit-propag-04.png">
+                    <h2>Logic</h2>
+                </div>
             </a>    
         </td>
         <td>
             <a href="solderingChallenge/">
-                <img src="solderingChallenge/assets/labels-L1.svg">
-                <h2>Pájecí výzva</h2>
+                <div id="tableMain">
+                    <img src="solderingChallenge/assets/labels-L1.svg">
+                    <h2>Pájecí výzva</h2>
+                </div>
             </a>     
         </td>
         <td>
             <a href="blackBox/">
-                <img src="blackBox/assets/blackBox-01.jpg">
-                <h2>BlackBox</h2>
+                <div id="tableMain">
+                    <img src="blackBox/assets/blackBox-01.jpg">
+                    <h2>BlackBox</h2>
+                </div>
             </a>           
         </td>
     </tr>
-    </table>
+    </div>
+    </table> -->
 </div>
 
 <!-- 
