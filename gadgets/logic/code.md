@@ -4,16 +4,16 @@
 !!! Pozor
 	Popisek výrazný
 
-    ``` python
-    def bubble_sort(items):
-        for i in range(len(items)):
-            for j in range(len(items) - 1 - i):
-                if items[j] > items[j + 1]:
-                    items[j], items[j + 1] = items[j + 1], items[j]
-    ```
+	``` python linenums="1"
+	def bubble_sort(items):
+		for i in range(len(items)):
+			for j in range(len(items) - 1 - i):
+				if items[j] > items[j + 1]:
+					items[j], items[j + 1] = items[j + 1], items[j]
+	```
 
 
-``` cpp
+``` cpp hl_lines="4-8 15"
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -43,3 +43,57 @@ int main(int argc, char *argv[])
     * [x] In scelerisque nibh non dolor mollis congue sed et metus
     * [ ] Praesent sed risus massa
 - [ ] Aenean pretium efficitur erat, donec pharetra, ligula non scelerisque
+
+
+
+
+## Bloky výběru
+
+!!! info inline end
+    Poznámka!!! dolor sit amet, consectetur
+    adipiscing elit. Nulla et euismod nulla.
+    Curabitur feugiat, tortor non consequat
+    finibus, justo purus auctor massa, nec
+    semper lorem quam in massa.
+
+=== "C"
+
+    ``` c
+    #include <stdio.h>
+
+    int main(void) {
+      printf("Hello world!\n");
+      return 0;
+    }
+    ```
+
+=== "C++"
+
+    ``` c++
+    #include <iostream>
+
+    int main(void) {
+      std::cout << "Hello world!" << std::endl;
+      return 0;
+    }
+    ```
+## Klávesy
+
+++ctrl+alt+del++
+
+## Schovaný bloky
+
+??? note
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
+	
+
+## pozor
+
+!!! bug inline end
+    Pozor bug!!! dolor sit amet, consectetur
+    adipiscing elit. Nulla et euismod nulla.
+    Curabitur feugiat, tortor non consequat
+    finibus, justo purus auctor massa, nec
+    semper lorem quam in massa.
