@@ -9,7 +9,7 @@
 <hr>
 
 ![RoboSvit schéma](assets/Electronic_dice-03.jpg)<br>
-3. Osadíme 3 rezistory **7 MΩ** (R1, R4, R9)
+3. Osadíme 3 rezistory **4.7 MΩ** (R1, R4, R9)
 <hr>
 
 ![RoboSvit schéma](assets/Electronic_dice-04.jpg)<br>
