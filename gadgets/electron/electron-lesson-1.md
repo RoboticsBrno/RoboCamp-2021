@@ -43,7 +43,7 @@ Vlastnosti sériového spojení rezistorů si můžete ověřit na modelu dle sc
 
 ## 3. Paralelní zapojení rezistorů
 
-Na tomto zapojení si můžete vyzkoušet, jaké vlastnosti bude mít zapojení rezistorů paralelně (souběžně) neboli vedle sebe. Zapojte obvod podle schématu. Rozsvítí se LED a po stisku tlačítka se rozsvítí silněji. Vysvětlení je následující: pokud je tlačítko rozepnuto, proud prochází přes rezistor 560Ω a rozsvěcuje LED poněkud slaběji. Po stisknutí tlačítka začne proud procházet oběma rezistory současně a je proto větší. To se projeví zvětšením jasu LED.
+Na tomto zapojení si můžete vyzkoušet, jaké vlastnosti bude mít zapojení rezistorů paralelně (souběžně) neboli vedle sebe. Zapojte obvod podle schématu. Rozsvítí se LED a po stisku tlačítka se rozsvítí silněji. Vysvětlení je následující: pokud je tlačítko rozepnuto, proud prochází přes rezistor a rozsvěcuje LED poněkud slaběji. Po stisknutí tlačítka začne proud procházet oběma rezistory současně a je proto větší. To se projeví zvětšením jasu LED.
 
 Pro snadnější pochopení principu si představte situaci, kdy jedněmi dveřmi proudí do kina zástup lidí. V okamžiku, kdy se otevřou druhé dveře, začnou vcházet lidé i těmito dveřmi a kino se začne plnit rychleji.
 
