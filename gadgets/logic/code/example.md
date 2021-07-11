@@ -1,4 +1,4 @@
-# Code
+# Příklady dokumentace
 
 
 !!! Pozor

@@ -19,7 +19,7 @@
 
 ![L1](assets/labels-L1.svg)
 
-!!! note
+!!! Pozor danger
     Pozor, u kondenzátoru 4.7u záleží na polaritě. Popisek kondenzátoru
     musí směřovat ven z desky. Zeptej se lektora, pokud si nejsi jistý.
 

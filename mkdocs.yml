@@ -50,6 +50,8 @@ nav:
     - Logic:
         - logic/README.md
         - logic/manual.md
+        - Programování:
+            - logic/code/example.md
     - RoboSvit:
         - roboSvit/README.md
         - roboSvit/manual.md
