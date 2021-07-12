@@ -51,7 +51,12 @@ nav:
         - logic/README.md
         - logic/manual.md
         - Programování:
-            - logic/code/example.md
+            # - logic/code/example.md
+            - logic/code/utils.md
+            - logic/code/buttons.md
+            - logic/code/display.md
+            - logic/code/statusBar.md
+            - logic/code/buzzer.md
     - RoboSvit:
         - roboSvit/README.md
         - roboSvit/manual.md

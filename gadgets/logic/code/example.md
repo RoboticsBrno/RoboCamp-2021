@@ -49,6 +49,14 @@ int main(int argc, char *argv[])
 
 ## Bloky výběru
 
+# Užitečné funkce
+
+=== "CZ"
+	- **``** : 
+=== "EN"
+	- **``** : 
+
+
 !!! info inline end
     Poznámka!!! dolor sit amet, consectetur
     adipiscing elit. Nulla et euismod nulla.
