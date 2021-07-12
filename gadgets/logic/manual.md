@@ -43,7 +43,7 @@ Mozkem Logicu je moderní mikrokontrolér ESP32.
 <hr>
 
 ![RoboSvit schéma](assets/logic-13.jpg)<br>
-8.  Pinheady zastrčíme do dutinek
+8.  Pinheady zastrčíme delší stranou do dutinek
 <hr>
 
 ![RoboSvit schéma](assets/logic-14.jpg)<br>
@@ -82,18 +82,22 @@ Mozkem Logicu je moderní mikrokontrolér ESP32.
 17. Přišroubujeme vrchní desku (pozor na podložky)
 <hr>
 
+![RoboSvit schéma](assets/logic-26.jpg)<br>
+18.  Zkontrolujte si, že pinheady směřují k vrchní desce s ledkami a dutinky leží na spodní desce
+<hr>
+
 ![RoboSvit schéma](assets/logic-27.jpg)<br>
-18.  Zapájíme pinheady na horní straně Logicu
+19.  Zapájíme pinheady na horní straně Logicu
 <hr>
 
 ![RoboSvit schéma](assets/logic-30.jpg)<br>
-19.  Zapájíme dutinky na spodní straně Logicu
+20.  Zapájíme dutinky na spodní straně Logicu
 <hr>
 
 ![RoboSvit schéma](assets/logic-31.jpg)<br>
-20. Hotový logic zepředu
+21. Hotový logic zepředu
 <hr>
 
 ![RoboSvit schéma](assets/logic-32.jpg)<br>
-21. Hotový logic zezadu
+22. Hotový logic zezadu
 <hr>
