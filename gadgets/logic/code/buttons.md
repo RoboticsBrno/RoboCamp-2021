@@ -1,5 +1,47 @@
-# Tlačítka
+# Přímé čtení tlačítek
 
+- **`buttons.read(gpio_num_t gpio)`** : 
+
+## Názvy tlačítek
+- Up
+- Down
+- Left
+- Right
+- LeftUp
+- LeftDown
+- RightUp
+- RightDown
+
+## Příklad použití
+
+```cpp
+#include "Logic.hpp"
+#include <iostream>
+
+void logicMain() {
+    while (true) {
+        display.clear();
+
+        if(buttons.read(Enter)) {
+            display.drawSquareFilled(3, 3, 4, Rgb(255, 255, 255));    
+        }
+        else if(buttons.read(Right)) {
+            display.drawSquareFilled(6, 3, 4, Rgb(255, 255, 255));
+        }
+        else if(buttons.read(Down)) {
+            display.drawSquareFilled(3, 6, 4, Rgb(255, 255, 255));
+        }
+        else if(buttons.read(Left)) {
+            display.drawSquareFilled(0, 3, 4, Rgb(255, 255, 255));
+        }
+        else if(buttons.read(Up)) {
+            display.drawSquareFilled(3, 0, 4, Rgb(255, 255, 255));
+        }
+        display.show(30);
+    }
+}
+```
+# Registrace událostí na tlačítka
 ## buttons.priZmene / buttons.onChange
 
 === "CZ"
@@ -252,19 +294,6 @@
 		std::cout << "You will see this only when Button Left gets released." << std::endl;
 	}, Left);	
 	```
-
-
-
-<!-- ## 
-
-=== "CZ"
-	```cpp
-
-	```
-=== "EN"
-	```cpp
-	
-	``` -->
 
 
 
