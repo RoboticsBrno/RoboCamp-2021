@@ -1,16 +1,19 @@
-# Přímé čtení tlačítek
+# Tlačítka
+
+## Přímé čtení tlačítek
 
 - **`buttons.read(gpio_num_t gpio)`** : 
 
 ## Názvy tlačítek
-- Up
-- Down
-- Left
-- Right
-- LeftUp
-- LeftDown
-- RightUp
-- RightDown
+- `Enter`
+- `Up`
+- `Down`
+- `Left`
+- `Right`
+- `LeftUp`
+- `LeftDown`
+- `RightUp`
+- `RightDown`
 
 ## Příklad použití
 
