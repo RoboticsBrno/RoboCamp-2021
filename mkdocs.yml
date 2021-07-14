@@ -35,7 +35,7 @@ markdown_extensions:
   - pymdownx.tabbed
   - pymdownx.superfences
   - pymdownx.tasklist:
-      custom_checkbox: true  
+      custom_checkbox: true
 
 nav:
     - index.md
@@ -57,6 +57,7 @@ nav:
             - logic/code/display.md
             - logic/code/statusBar.md
             - logic/code/buzzer.md
+            - logic/code/links.md
     - RoboSvit:
         - roboSvit/README.md
         - roboSvit/manual.md
@@ -65,17 +66,17 @@ nav:
         - solderingChallenge/manual.md
     - BlackBox:
         - blackBox/README.md
-        - blackBox/manual.md        
-    
+        - blackBox/manual.md
+
 extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/RoboticsBrno
       name: IREE Discord Server
     # - icon: fontawesome/brands/twitter
-    #   link: 
+    #   link:
     # lightbox:
-    #         gallery: true    
+    #         gallery: true
 
 extra_javascript:
   - assets/highlight/highlight.min.js
