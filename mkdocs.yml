@@ -58,6 +58,7 @@ nav:
             - logic/code/statusBar.md
             - logic/code/buzzer.md
             - logic/code/links.md
+            - logic/code/projects.md
     - RoboSvit:
         - roboSvit/README.md
         - roboSvit/manual.md
