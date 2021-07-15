@@ -50,6 +50,7 @@ nav:
     - Logic:
         - logic/README.md
         - logic/manual.md
+        - logic/install.md
         - Programování:
             # - logic/code/example.md
             - logic/code/utils.md
