@@ -52,7 +52,7 @@ build/l5.kicad_pcb: hardware/solderingChallenge.kicad_pcb build
 # 		$< $@
 
 build/gatema.zip: single
-	cd build; zip -r gatema.zip l1 l2 l3 l4
+	cd build; zip -r gatema.zip l0 l1 l2 l3 l4
 
 clean:
 	rm -rf build
