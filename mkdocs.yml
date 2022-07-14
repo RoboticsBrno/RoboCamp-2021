@@ -2,19 +2,17 @@ site_name: Robotický tábor 2021
 site_url: https://2021.robotickytabor.cz/
 theme:
     name: material
-    # name: bootstrap386
     palette:
         scheme: slate
         primary: deep orange
-        accent: light green
+        accent: deep orange
     language: cs
     logo: assets/logo.png
     favicon: assets/logo180.png
     features:
         - navigation.expand
         - navigation.instant
-        # - navigation.tracking
-        # - navigation.instant
+        - navigation.tabs
     custom_dir: overrides
 
 
