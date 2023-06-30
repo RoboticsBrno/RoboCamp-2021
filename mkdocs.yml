@@ -1,11 +1,31 @@
 site_name: Robotický tábor 2021
 site_url: https://2021.robotickytabor.cz/
+site_description: >-
+  Robotický tábor 2021
+
+repo_name: RoboticsBrno/RoboCamp-2021
+repo_url: https://github.com/RoboticsBrno/RoboCamp-2021
+
+# Copyright
+copyright: Copyright © 2021 RoboticsBrno
+use_directory_urls: True
+
 theme:
     name: material
     palette:
-        scheme: slate
+      - scheme: slate
         primary: deep orange
         accent: deep orange
+        toggle:
+            icon: material/weather-sunny
+            name: Přepnout na světý režim
+      - scheme: default
+        primary: deep orange
+        accent: deep orange
+        toggle:
+            icon: material/weather-night
+            name: Přepnout na tmavý režim
+
     language: cs
     logo: assets/logo.png
     favicon: assets/logo180.png
@@ -15,25 +35,45 @@ theme:
         - navigation.tabs
     custom_dir: overrides
 
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/RoboticsBrno
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/RobotikaBrno
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/robotarna
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@robotikabrno-robotarnaasps2392
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/_robotarna_
+
 
 docs_dir: gadgets
 
 plugins:
-    - awesome-pages
     - search
+    - open-in-new-tab
+    - glightbox
 
 markdown_extensions:
   - pymdownx.highlight
   - pymdownx.superfences
   - admonition
   - pymdownx.details
-  - pymdownx.superfences
   - pymdownx.keys
   - attr_list
   - pymdownx.tabbed
-  - pymdownx.superfences
+  - pymdownx.snippets:
+      url_download: True
   - pymdownx.tasklist:
       custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+extra_css:
+  - assets/style.css
 
 nav:
     - index.md
@@ -68,20 +108,5 @@ nav:
     - BlackBox:
         - blackBox/README.md
         - blackBox/manual.md
-
-extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/RoboticsBrno
-      name: IREE Discord Server
-    # - icon: fontawesome/brands/twitter
-    #   link:
-    # lightbox:
-    #         gallery: true
-
-extra_javascript:
-  - assets/highlight/highlight.min.js
-  - assets/config.js
-extra_css:
-  - assets/highlight/default.min.css
-  - assets/style.css
+    - Náš tým :
+        - team/index.md

@@ -1,3 +1,6 @@
+---
+glightbox: false
+---
 # Robotický tábor
 
 ## Vítej na stránkách Robotického tábora 2021
@@ -24,7 +27,6 @@
             </a>
         </div>
     </div>
-
     <div class="container">
         <div class="col--1">
             <a href="roboSvit/">
@@ -45,8 +47,6 @@
             </a>
         </div>
     </div>
-
-
     <!-- <table style="width:100% text-align: center" class="flex-container>
     <div id="tableMain">
     <tr>
@@ -56,7 +56,7 @@
                     <img src="electron/assets/electron-34.svg">
                     <h2>Electron</h2>
                 </div>
-            </a>    
+            </a>
         </td>
         <td>
             <a href="electronicDie/">
@@ -64,7 +64,7 @@
                     <img src="electronicDie/assets/fancy/Electronic_dice-fancy-01.png">
                     <h2>Hrací kostka</h2>
                 </div>
-            </a>    
+            </a>
         </td>
         <td>
             <a href="blackBox/">
@@ -72,7 +72,7 @@
                     <img src="blackBox/assets/blackBox-01.jpg">
                     <h2>BlackBox</h2>
                 </div>
-            </a>    
+            </a>
         </td>
     </tr>
     <tr>
@@ -91,7 +91,7 @@
                     <img src="roboSvit/assets/roboSvit-propag/photo/roboSvit-propag-04.png">
                     <h2>Logic</h2>
                 </div>
-            </a>    
+            </a>
         </td>
         <td>
             <a href="solderingChallenge/">
@@ -99,7 +99,7 @@
                     <img src="solderingChallenge/assets/labels-L1.svg">
                     <h2>Pájecí výzva</h2>
                 </div>
-            </a>     
+            </a>
         </td>
         <td>
             <a href="blackBox/">
@@ -107,14 +107,14 @@
                     <img src="blackBox/assets/blackBox-01.jpg">
                     <h2>BlackBox</h2>
                 </div>
-            </a>           
+            </a>
         </td>
     </tr>
     </div>
     </table> -->
 </div>
 
-<!-- 
+<!--
     <hr>
 
     <hr>
