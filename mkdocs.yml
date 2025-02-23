@@ -31,7 +31,6 @@ theme:
     favicon: assets/logo180.png
     features:
         - navigation.expand
-        - navigation.instant
         - navigation.tabs
     custom_dir: overrides
 
