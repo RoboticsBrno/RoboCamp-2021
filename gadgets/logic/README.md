@@ -46,9 +46,10 @@
     <div class="logic-modal-content">
       <p>
         Dokumentace pro Logic byla spolu s uvedením nové verze desky přesunuta. Návody pro ostatní výrobky z tábora stále zůstávají zde. Chcete přejít na novou verzi?
+		<a href="https://logic.robotikabrno.cz/cs/">logic.robotikabrno.cz</a>
       </p>
-      <button id="logicYesBtn">Přejít</button>
       <button id="logicNoBtn">Zůstat</button>
+      <button id="logicYesBtn">Přejít</button>
     </div>
   </div>
 
