@@ -1,0 +1,435 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid b1086f75-01ba-4188-8d36-75a9e2828ca9)
+
+  (paper "A4")
+
+  (lib_symbols
+    (symbol "kikit:Board" (in_bom no) (on_board yes)
+      (property "Reference" "B" (id 0) (at 5.08 5.08 0)
+        (effects (font (size 1.27 1.27)) (justify left))
+      )
+      (property "Value" "Board" (id 1) (at 5.08 2.54 0)
+        (effects (font (size 1.27 1.27)) (justify left))
+      )
+      (property "Footprint" "kikit:Board" (id 2) (at 10.16 0.635 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "Datasheet" "" (id 3) (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_keywords" "KiKit" (id 4) (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_description" "KiKit Board annotations" (id 5) (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (symbol "Board_0_1"
+        (polyline
+          (pts
+            (xy 0 0)
+            (xy 3.81 3.81)
+            (xy 10.795 3.81)
+          )
+          (stroke (width 0.1524) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0.635 1.27)
+            (xy 0 0)
+            (xy 1.27 0.635)
+          )
+          (stroke (width 0.1524) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+      )
+    )
+  )
+
+
+  (symbol (lib_id "kikit:Board") (at 231.14 101.6 0) (unit 1)
+    (in_bom no) (on_board yes) (fields_autoplaced)
+    (uuid 0bfb77c8-e9e0-4927-beab-c0480cf12de8)
+    (property "Reference" "B5" (id 0) (at 243.84 98.4249 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "Board" (id 1) (at 243.84 100.9649 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "kikit:Board" (id 2) (at 241.3 100.965 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (id 3) (at 231.14 101.6 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+  )
+
+  (symbol (lib_id "kikit:Board") (at 43.18 62.23 0) (unit 1)
+    (in_bom no) (on_board yes) (fields_autoplaced)
+    (uuid 126a666f-f327-46a5-85a7-3b8e51f9caed)
+    (property "Reference" "B0" (id 0) (at 55.88 59.0549 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "Board" (id 1) (at 55.88 61.5949 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "kikit:Board" (id 2) (at 53.34 61.595 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (id 3) (at 43.18 62.23 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+  )
+
+  (symbol (lib_id "kikit:Board") (at 180.34 101.6 0) (unit 1)
+    (in_bom no) (on_board yes) (fields_autoplaced)
+    (uuid 220844db-d3a6-4d0f-9425-90a9f2559def)
+    (property "Reference" "B4" (id 0) (at 193.04 98.4249 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "Board" (id 1) (at 193.04 100.9649 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "kikit:Board" (id 2) (at 190.5 100.965 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (id 3) (at 180.34 101.6 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+  )
+
+  (symbol (lib_id "kikit:Board") (at 86.36 101.6 0) (unit 1)
+    (in_bom no) (on_board yes) (fields_autoplaced)
+    (uuid 54f2ef38-6646-48b1-b525-7f7160f8f321)
+    (property "Reference" "B2" (id 0) (at 99.06 98.4249 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "Board" (id 1) (at 99.06 100.9649 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "kikit:Board" (id 2) (at 96.52 100.965 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (id 3) (at 86.36 101.6 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+  )
+
+  (symbol (lib_id "kikit:Board") (at 41.91 101.6 0) (unit 1)
+    (in_bom no) (on_board yes) (fields_autoplaced)
+    (uuid 6c3ce01a-e542-4d43-974f-484d11a56774)
+    (property "Reference" "B1" (id 0) (at 54.61 98.4249 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "Board" (id 1) (at 54.61 100.9649 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "kikit:Board" (id 2) (at 52.07 100.965 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (id 3) (at 41.91 101.6 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+  )
+
+  (symbol (lib_id "kikit:Board") (at 128.27 101.6 0) (unit 1)
+    (in_bom no) (on_board yes) (fields_autoplaced)
+    (uuid 86ed2ac5-51ec-4b38-83f7-1f94b1bb69c9)
+    (property "Reference" "B3" (id 0) (at 140.97 98.4249 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "Board" (id 1) (at 140.97 100.9649 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "kikit:Board" (id 2) (at 138.43 100.965 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (id 3) (at 128.27 101.6 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+  )
+
+  (sheet (at 31.75 85.09) (size 36.83 27.94) (fields_autoplaced)
+    (stroke (width 0) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 00000000-0000-0000-0000-0000600f28f2)
+    (property "Sheet name" "Level 1 - THT" (id 0) (at 31.75 84.3784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "level1-THT.kicad_sch" (id 1) (at 31.75 113.6146 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 74.93 85.09) (size 35.56 27.94) (fields_autoplaced)
+    (stroke (width 0) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 00000000-0000-0000-0000-0000600fb290)
+    (property "Sheet name" "Level 2 - 1206" (id 0) (at 74.93 84.3784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "level2-1206.kicad_sch" (id 1) (at 74.93 113.6146 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 116.84 85.09) (size 39.37 27.94) (fields_autoplaced)
+    (stroke (width 0) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 00000000-0000-0000-0000-0000600fd428)
+    (property "Sheet name" "Level 3 - 0603" (id 0) (at 116.84 84.3784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "level3-0603.kicad_sch" (id 1) (at 116.84 113.6146 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 163.83 85.09) (size 43.18 27.94) (fields_autoplaced)
+    (stroke (width 0) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 00000000-0000-0000-0000-0000600ff0c1)
+    (property "Sheet name" "Level 4 - 0402" (id 0) (at 163.83 84.3784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "level4-0402.kicad_sch" (id 1) (at 163.83 113.6146 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 217.17 85.09) (size 36.83 27.94) (fields_autoplaced)
+    (stroke (width 0) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 00000000-0000-0000-0000-0000600ff353)
+    (property "Sheet name" "Level 5 - 0201" (id 0) (at 217.17 84.3784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "level5-0201.kicad_sch" (id 1) (at 217.17 113.6146 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 31.75 46.99) (size 36.83 27.94) (fields_autoplaced)
+    (stroke (width 0) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 20a40fd4-4825-456a-b45d-96e8fe1622a5)
+    (property "Sheet name" "Level 0 - THT" (id 0) (at 31.75 46.2784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "level1-THT.kicad_sch" (id 1) (at 31.75 75.5146 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+    (path "/00000000-0000-0000-0000-0000600f28f2" (page "2"))
+    (path "/00000000-0000-0000-0000-0000600fb290" (page "3"))
+    (path "/00000000-0000-0000-0000-0000600fd428" (page "4"))
+    (path "/00000000-0000-0000-0000-0000600ff0c1" (page "5"))
+    (path "/00000000-0000-0000-0000-0000600ff353" (page "6"))
+    (path "/20a40fd4-4825-456a-b45d-96e8fe1622a5" (page "7"))
+  )
+
+  (symbol_instances
+    (path "/00000000-0000-0000-0000-0000600f28f2/00000000-0000-0000-0000-0000600f9aaf"
+      (reference "#FLG01") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-0000600f28f2/00000000-0000-0000-0000-0000600f9ab6"
+      (reference "#FLG02") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-0000600fb290/00000000-0000-0000-0000-0000600fc9ec"
+      (reference "#FLG03") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-0000600fb290/00000000-0000-0000-0000-0000600fc9f3"
+      (reference "#FLG04") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-0000600fd428/00000000-0000-0000-0000-0000600fe765"
+      (reference "#FLG05") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-0000600fd428/00000000-0000-0000-0000-0000600fe76c"
+      (reference "#FLG06") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-0000600ff0c1/00000000-0000-0000-0000-0000601033f6"
+      (reference "#FLG07") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-0000600ff0c1/00000000-0000-0000-0000-0000601033fd"
+      (reference "#FLG08") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-0000600ff353/00000000-0000-0000-0000-0000601006c5"
+      (reference "#FLG09") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-0000600ff353/00000000-0000-0000-0000-0000601006cc"
+      (reference "#FLG010") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/20a40fd4-4825-456a-b45d-96e8fe1622a5/00000000-0000-0000-0000-0000600f9ab6"
+      (reference "#FLG011") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/20a40fd4-4825-456a-b45d-96e8fe1622a5/00000000-0000-0000-0000-0000600f9aaf"
+      (reference "#FLG012") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/126a666f-f327-46a5-85a7-3b8e51f9caed"
+      (reference "B0") (unit 1) (value "Board") (footprint "kikit:Board")
+    )
+    (path "/6c3ce01a-e542-4d43-974f-484d11a56774"
+      (reference "B1") (unit 1) (value "Board") (footprint "kikit:Board")
+    )
+    (path "/54f2ef38-6646-48b1-b525-7f7160f8f321"
+      (reference "B2") (unit 1) (value "Board") (footprint "kikit:Board")
+    )
+    (path "/86ed2ac5-51ec-4b38-83f7-1f94b1bb69c9"
+      (reference "B3") (unit 1) (value "Board") (footprint "kikit:Board")
+    )
+    (path "/220844db-d3a6-4d0f-9425-90a9f2559def"
+      (reference "B4") (unit 1) (value "Board") (footprint "kikit:Board")
+    )
+    (path "/0bfb77c8-e9e0-4927-beab-c0480cf12de8"
+      (reference "B5") (unit 1) (value "Board") (footprint "kikit:Board")
+    )
+    (path "/00000000-0000-0000-0000-0000600f28f2/00000000-0000-0000-0000-0000600f9a55"
+      (reference "C1") (unit 1) (value "10n") (footprint "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm")
+    )
+    (path "/00000000-0000-0000-0000-0000600f28f2/00000000-0000-0000-0000-0000600f9a6d"
+      (reference "C2") (unit 1) (value "4.7u") (footprint "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm")
+    )
+    (path "/00000000-0000-0000-0000-0000600fb290/00000000-0000-0000-0000-0000600fc992"
+      (reference "C3") (unit 1) (value "10n") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
+    )
+    (path "/00000000-0000-0000-0000-0000600fb290/00000000-0000-0000-0000-0000600fc9aa"
+      (reference "C4") (unit 1) (value "4.7u") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
+    )
+    (path "/00000000-0000-0000-0000-0000600fd428/00000000-0000-0000-0000-0000600fe70b"
+      (reference "C5") (unit 1) (value "10n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder")
+    )
+    (path "/00000000-0000-0000-0000-0000600fd428/00000000-0000-0000-0000-0000600fe723"
+      (reference "C6") (unit 1) (value "4.7u") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder")
+    )
+    (path "/00000000-0000-0000-0000-0000600ff0c1/00000000-0000-0000-0000-00006010339c"
+      (reference "C7") (unit 1) (value "10n") (footprint "Capacitor_SMD:C_0402_1005Metric")
+    )
+    (path "/00000000-0000-0000-0000-0000600ff0c1/00000000-0000-0000-0000-0000601033b4"
+      (reference "C8") (unit 1) (value "4.7u") (footprint "Capacitor_SMD:C_0402_1005Metric")
+    )
+    (path "/00000000-0000-0000-0000-0000600ff353/00000000-0000-0000-0000-00006010066b"
+      (reference "C9") (unit 1) (value "10n") (footprint "Capacitor_SMD:C_0201_0603Metric")
+    )
+    (path "/00000000-0000-0000-0000-0000600ff353/00000000-0000-0000-0000-000060100683"
+      (reference "C10") (unit 1) (value "4.7u") (footprint "Capacitor_SMD:C_0201_0603Metric")
+    )
+    (path "/20a40fd4-4825-456a-b45d-96e8fe1622a5/00000000-0000-0000-0000-0000600f9a55"
+      (reference "C11") (unit 1) (value "10n") (footprint "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm")
+    )
+    (path "/20a40fd4-4825-456a-b45d-96e8fe1622a5/00000000-0000-0000-0000-0000600f9a6d"
+      (reference "C12") (unit 1) (value "4.7u") (footprint "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm")
+    )
+    (path "/00000000-0000-0000-0000-0000600f28f2/00000000-0000-0000-0000-0000600f9a95"
+      (reference "D1") (unit 1) (value "LED") (footprint "LED_THT:LED_D5.0mm")
+    )
+    (path "/00000000-0000-0000-0000-0000600fb290/00000000-0000-0000-0000-0000600fc9d2"
+      (reference "D2") (unit 1) (value "LED") (footprint "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
+    )
+    (path "/00000000-0000-0000-0000-0000600fd428/00000000-0000-0000-0000-0000600fe74b"
+      (reference "D3") (unit 1) (value "LED") (footprint "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder")
+    )
+    (path "/00000000-0000-0000-0000-0000600ff0c1/00000000-0000-0000-0000-0000601033dc"
+      (reference "D4") (unit 1) (value "LED") (footprint "LED_SMD:LED_0402_1005Metric")
+    )
+    (path "/00000000-0000-0000-0000-0000600ff353/00000000-0000-0000-0000-0000601006ab"
+      (reference "D5") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric")
+    )
+    (path "/20a40fd4-4825-456a-b45d-96e8fe1622a5/00000000-0000-0000-0000-0000600f9a95"
+      (reference "D6") (unit 1) (value "LED") (footprint "LED_THT:LED_D5.0mm")
+    )
+    (path "/20a40fd4-4825-456a-b45d-96e8fe1622a5/00000000-0000-0000-0000-0000600f9a85"
+      (reference "J1") (unit 1) (value "USB_A") (footprint "RoboCamp:usb-PCB")
+    )
+    (path "/00000000-0000-0000-0000-0000600f28f2/00000000-0000-0000-0000-0000600f9a85"
+      (reference "J2") (unit 1) (value "USB_A") (footprint "RoboCamp:usb-PCB")
+    )
+    (path "/00000000-0000-0000-0000-0000600fb290/00000000-0000-0000-0000-0000600fc9c2"
+      (reference "J4") (unit 1) (value "USB_A") (footprint "RoboCamp:usb-PCB")
+    )
+    (path "/00000000-0000-0000-0000-0000600fd428/00000000-0000-0000-0000-0000600fe73b"
+      (reference "J6") (unit 1) (value "USB_A") (footprint "RoboCamp:usb-PCB")
+    )
+    (path "/00000000-0000-0000-0000-0000600ff0c1/00000000-0000-0000-0000-0000601033cc"
+      (reference "J8") (unit 1) (value "USB_A") (footprint "RoboCamp:usb-PCB")
+    )
+    (path "/00000000-0000-0000-0000-0000600ff353/00000000-0000-0000-0000-00006010069b"
+      (reference "J10") (unit 1) (value "USB_A") (footprint "RoboCamp:usb-PCB")
+    )
+    (path "/00000000-0000-0000-0000-0000600f28f2/00000000-0000-0000-0000-0000600f9a8d"
+      (reference "R1") (unit 1) (value "330R") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal")
+    )
+    (path "/00000000-0000-0000-0000-0000600f28f2/00000000-0000-0000-0000-0000600f9a5c"
+      (reference "R2") (unit 1) (value "10k") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal")
+    )
+    (path "/00000000-0000-0000-0000-0000600f28f2/00000000-0000-0000-0000-0000600f9a4f"
+      (reference "R3") (unit 1) (value "100k") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal")
+    )
+    (path "/00000000-0000-0000-0000-0000600fb290/00000000-0000-0000-0000-0000600fc9ca"
+      (reference "R4") (unit 1) (value "330R") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
+    )
+    (path "/00000000-0000-0000-0000-0000600fb290/00000000-0000-0000-0000-0000600fc999"
+      (reference "R5") (unit 1) (value "10k") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
+    )
+    (path "/00000000-0000-0000-0000-0000600fb290/00000000-0000-0000-0000-0000600fc98c"
+      (reference "R6") (unit 1) (value "100k") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
+    )
+    (path "/00000000-0000-0000-0000-0000600fd428/00000000-0000-0000-0000-0000600fe743"
+      (reference "R7") (unit 1) (value "330R") (footprint "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder")
+    )
+    (path "/00000000-0000-0000-0000-0000600fd428/00000000-0000-0000-0000-0000600fe712"
+      (reference "R8") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder")
+    )
+    (path "/00000000-0000-0000-0000-0000600fd428/00000000-0000-0000-0000-0000600fe705"
+      (reference "R9") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder")
+    )
+    (path "/00000000-0000-0000-0000-0000600ff0c1/00000000-0000-0000-0000-0000601033d4"
+      (reference "R10") (unit 1) (value "330R") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
+    (path "/00000000-0000-0000-0000-0000600ff0c1/00000000-0000-0000-0000-0000601033a3"
+      (reference "R11") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
+    (path "/00000000-0000-0000-0000-0000600ff0c1/00000000-0000-0000-0000-000060103396"
+      (reference "R12") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
+    (path "/00000000-0000-0000-0000-0000600ff353/00000000-0000-0000-0000-0000601006a3"
+      (reference "R13") (unit 1) (value "330R") (footprint "Resistor_SMD:R_0201_0603Metric")
+    )
+    (path "/00000000-0000-0000-0000-0000600ff353/00000000-0000-0000-0000-000060100672"
+      (reference "R14") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0201_0603Metric")
+    )
+    (path "/00000000-0000-0000-0000-0000600ff353/00000000-0000-0000-0000-000060100665"
+      (reference "R15") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0201_0603Metric")
+    )
+    (path "/20a40fd4-4825-456a-b45d-96e8fe1622a5/00000000-0000-0000-0000-0000600f9a8d"
+      (reference "R16") (unit 1) (value "330R") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal")
+    )
+    (path "/20a40fd4-4825-456a-b45d-96e8fe1622a5/00000000-0000-0000-0000-0000600f9a5c"
+      (reference "R17") (unit 1) (value "10k") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal")
+    )
+    (path "/20a40fd4-4825-456a-b45d-96e8fe1622a5/00000000-0000-0000-0000-0000600f9a4f"
+      (reference "R18") (unit 1) (value "100k") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal")
+    )
+    (path "/00000000-0000-0000-0000-0000600f28f2/00000000-0000-0000-0000-0000600f9a49"
+      (reference "U1") (unit 1) (value "LM555xN") (footprint "Package_DIP:DIP-8_W7.62mm")
+    )
+    (path "/00000000-0000-0000-0000-0000600fb290/00000000-0000-0000-0000-000060105c46"
+      (reference "U2") (unit 1) (value "LMC555xM") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
+    )
+    (path "/00000000-0000-0000-0000-0000600fd428/00000000-0000-0000-0000-00006010c318"
+      (reference "U3") (unit 1) (value "LMC555xMM") (footprint "Package_SO:VSSOP-8_3.0x3.0mm_P0.65mm")
+    )
+    (path "/00000000-0000-0000-0000-0000600ff0c1/00000000-0000-0000-0000-00006011e0eb"
+      (reference "U4") (unit 1) (value "LMC555xMM") (footprint "Package_SO:VSSOP-8_3.0x3.0mm_P0.65mm")
+    )
+    (path "/00000000-0000-0000-0000-0000600ff353/00000000-0000-0000-0000-00006011669c"
+      (reference "U5") (unit 1) (value "LMC555xTP") (footprint "Package_BGA:Texas_DSBGA-8_1.43x1.41mm_Layout3x3_P0.5mm")
+    )
+    (path "/20a40fd4-4825-456a-b45d-96e8fe1622a5/00000000-0000-0000-0000-0000600f9a49"
+      (reference "U6") (unit 1) (value "LM555xN") (footprint "Package_DIP:DIP-8_W7.62mm")
+    )
+  )
+)
